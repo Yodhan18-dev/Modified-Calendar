@@ -153,7 +153,7 @@
     <string name="switch_app_hider">تبديل وضع إخفاء التطبيق</string>
     <string name="panic_button">زر الذعر</string>
     <string name="update_description">Yodhan 18 calendar %s (%d) متاح للتنزيل والتثبيت.</string>
-    <string name="calendar_about">التقويم النقي | بواسطة @koramA</string>
+    <string name="calendar_about">التقويم النقي | بواسطة @Yodhan</string>
     <string name="display_system_apps">عرض تطبيقات النظام</string>
     <string name="enable_dynamic_color">لون ديناميكي</string>
     <string name="invalid_dsm_provider">DSM: موفر DSM غير صالح. هل قمت بتثبيت وتفعيل موفر DSM على جهازك؟</string>

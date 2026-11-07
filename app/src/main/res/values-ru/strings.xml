@@ -134,7 +134,7 @@
     <string name="chmod_samsung_warning"><b><font fgcolor="#ff0000">Некоторые пользователи Samsung сообщали, что использование скрытия файлов при помощи режима Chmod приводит к сбоям в загрузке их устройств.</font> Посмотрите задачу (issue) #105 для более детальной информации. Используйте на свой страх и риск.</b></string>
     <string name="warning">ВНИМАНИЕ</string>
     <string name="disguise_description">Замаскируйте Yodhan 18 calendar под приложение-календарь.</string>
-    <string name="calendar_about">Чистый Календарь | от @koramA</string>
+    <string name="calendar_about">Чистый Календарь | от @Yodhan</string>
     <string name="disguise">Маскировка приложения</string>
     <string name="enable_dynamic_color">Динамический цвет</string>
     <string name="dynamic_color_description">Включить динамическую цветовую тему.</string>

@@ -151,7 +151,7 @@
     <string name="app_name_calendar">calendar</string>
     <string name="disguise">应用伪装</string>
     <string name="disguise_description">将 Yodhan 18 calendar 伪装成日历应用。</string>
-    <string name="calendar_about">极简日历 | by @koramA</string>
+    <string name="calendar_about">极简日历 | by @Yodhan</string>
     <string name="close_disguise_spotlight_tip">长按<font fgcolor="#FCCA3E"><b>年份数字</b></font>进入 Yodhan 18 calendar。</string>
     <string name="spotlight_do_not_show_again">不再提示</string>
     <string name="filehider_not_ava_title">无效的文件隐藏器</string>

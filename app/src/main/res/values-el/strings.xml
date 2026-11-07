@@ -136,7 +136,7 @@
     <string name="app_name_calendar">calendar</string>
     <string name="disguise">Μεταμφίεση Εφαρμογής</string>
     <string name="disguise_description">Μεταμφίεση του Yodhan 18 calendar ως εφαρμογή ημερολογίου.</string>
-    <string name="calendar_about">Καθαρό Ημερολόγιο | από @koramA</string>
+    <string name="calendar_about">Καθαρό Ημερολόγιο | από @Yodhan</string>
     <string name="close_disguise_spotlight_tip">Πατήστε παρατεταμένα το <font fgcolor="#FCCA3E"><b>Αριθμός έτους</b></font> για πρόσβαση στο Yodhan 18 calendar.</string>
     <string name="spotlight_do_not_show_again">ΜΗΝ ΕΜΦΑΝΙΣΤΕΙ ΞΑΝΑ</string>
     <string name="filehider_not_ava_title">Απόκρυψη αρχείου μη διαθέσιμη</string>

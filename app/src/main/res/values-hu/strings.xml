@@ -152,7 +152,7 @@
     <string name="app_name_calendar">calendar</string>
     <string name="disguise">Alkalmazás álcázása</string>
     <string name="disguise_description">Az Amarokot naptár alkalmazásnak álcázza.</string>
-    <string name="calendar_about">Pure Calendar | by @koramA</string>
+    <string name="calendar_about">Pure Calendar | by @Yodhan</string>
     <string name="close_disguise_spotlight_tip">Nyomd hosszan az <font fgcolor="#FCCA3E"><b>Évszámot</b></font> , hogy hozzáférj az Amarokhoz.</string>
     <string name="spotlight_do_not_show_again">NE MUTASD ÚJRA</string>
     <string name="filehider_not_ava_title">Fájlrejtés nem elérhető</string>

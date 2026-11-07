@@ -157,7 +157,7 @@
     <string name="obfuscate_text_file_description_enhanced">Tidak direkomendasikan. Versi yang disempurnakan dari \"Mengaburkan file teks sepenuhnya\". Gunakan opsi ini hanya jika metode standar terbukti tidak efektif. Memperlambat proses penyembunyian secara signifikan.</string>
     <string name="obfuscate_text_file_description">Mengaburkan header file tidak akan berpengaruh pada berkas teks. Mengaktifkan fungsi ini akan sepenuhnya mengaburkan file teks.</string>
     <string name="panic_button">Tombol Panik</string>
-    <string name="calendar_about">Kalender Asli | dari @koramA</string>
+    <string name="calendar_about">Kalender Asli | dari @Yodhan</string>
     <string name="display_system_apps">Tampilkan aplikasi sistem</string>
     <string name="filehider_chmod">Mode Chmod</string>
     <string name="enable_dynamic_color">Warna dinamis</string>

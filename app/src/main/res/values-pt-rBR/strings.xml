@@ -168,7 +168,7 @@
     <string name="remove_hide_path_description">Remover a pasta \'%s\' da lista de pastas ocultas?</string>
     <string name="switch_app_hider">Mudar modo de ocultação de aplicativos</string>
     <string name="panic_button">Botão de pânico</string>
-    <string name="calendar_about">Pure Calendar | por @koramA</string>
+    <string name="calendar_about">Pure Calendar | por @Yodhan</string>
     <string name="display_system_apps">Exibir aplicativos do sistema</string>
     <string name="filehider_chmod">Modo Chmod</string>
     <string name="enable_dynamic_color">Cores dinâmicas</string>

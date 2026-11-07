@@ -138,7 +138,7 @@
     <string name="filter">フィルター</string>
     <string name="close_disguise_spotlight_tip"><font fgcolor="#FCCA3E"><b>年の数字</b></font>を長押しすると、Amarokにアクセスできます。</string>
     <string name="spotlight_do_not_show_again">今後表示しない</string>
-    <string name="calendar_about">ピュアカレンダー | by @koramA</string>
+    <string name="calendar_about">ピュアカレンダー | by @Yodhan</string>
     <string name="display_root_apps">root関連アプリを表示</string>
     <string name="invalid_path">無効なパスです。</string>
     <string name="enable_x_hide_description">状態：%s</string>

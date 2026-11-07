@@ -153,7 +153,7 @@
     <string name="switch_app_hider">Промени режим сакривања апликација</string>
     <string name="panic_button">Паник дугме</string>
     <string name="update_description">Yodhan 18 calendar %s (%d) је доступан за преузимање и инсталирање.</string>
-    <string name="calendar_about">Pure Calendar | од @koramA</string>
+    <string name="calendar_about">Pure Calendar | од @Yodhan</string>
     <string name="display_system_apps">Прикажи системске апликације</string>
     <string name="enable_dynamic_color">Динамичка боја</string>
     <string name="invalid_dsm_provider">DSM: Неважећи DSM пружалац. Да ли сте инсталирали и активирали DSM пружаоца на свом уређају\?</string>

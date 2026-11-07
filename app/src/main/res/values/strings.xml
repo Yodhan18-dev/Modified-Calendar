@@ -170,7 +170,7 @@
     <string name="hide_amarok_icon_description">Hide Yodhan 18 calendar from the launcher. Dial *#*#262765#*#* to open the Yodhan 18 calendar.</string>
     <string name="disable_security_when_unhidden">Disable security when unhidden</string>
     <string name="disable_security_when_unhidden_description">Disable disguise and app lock when not hidden.</string>
-    <string name="calendar_about">Pure Calendar | by @koramA</string>
+    <string name="calendar_about">Pure Calendar | by @Yodhan</string>
     <string name="close_disguise_spotlight_tip">Long press the <font fgcolor="#FCCA3E"><b>Year Number</b></font> to access Yodhan 18 calendar.</string>
     <string name="spotlight_do_not_show_again">DON\'T SHOW AGAIN</string>
     <string name="filehider_not_ava_title">File hiding unavailable</string>
