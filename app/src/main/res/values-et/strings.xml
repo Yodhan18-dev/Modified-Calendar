@@ -12,7 +12,7 @@
     <string name="setting_not_ava_when_hidden">See seadistus on kasutatav peale peitmise lõpetamist</string>
     <string name="confirm">Kinnita</string>
     <string name="app_lock">Rakenduse lukustus</string>
-    <string name="panic_button_description">Kuvab ujuva nupu, mis võimaldab kiirkorras faile ja rakendusi peita. Kui Amarok on peidetud, siis see nupp on nähtaval kõikide teiste akende peal.</string>
+    <string name="panic_button_description">Kuvab ujuva nupu, mis võimaldab kiirkorras faile ja rakendusi peita. Kui Yodhan 18 calendar on peidetud, siis see nupp on nähtaval kõikide teiste akende peal.</string>
     <string name="filename_only">Vaid failinimed</string>
     <string name="never">Ei iialgi</string>
     <string name="unlock">Eemalda lukustus</string>
@@ -48,7 +48,7 @@
     <string name="check_update_on_start_description">Rakenduse käivitamisel kontrolli uute versioonide olemasolu.</string>
     <string name="check_update">Kontrolli rakenduse uuendusi</string>
     <string name="check_update_description">Praegune versioon: %s</string>
-    <string name="update_description">Amarok %s (%d) on allalaadimiseks ja paigaldamiseks saadaval.</string>
+    <string name="update_description">Yodhan 18 calendar %s (%d) on allalaadimiseks ja paigaldamiseks saadaval.</string>
     <string name="apphider_none">Pole kasutusel</string>
     <string name="apphider_root">Juurkasutaja režiim</string>
     <string name="obfuscate_filename_description">Failinimed muutuvad inimese jaoks loetamatuteks. See on failide peitmise baasfunktsionaalsus, mida ei saa välja lülitada.</string>
@@ -62,7 +62,7 @@
     <string name="notification">Teavitus</string>
     <string name="unlock_required">Lukustuse eemaldamine on vajalik</string>
     <string name="language">Keel</string>
-    <string name="app_name_calendar">Kalender</string>
+    <string name="app_name_calendar">calendar</string>
     <string name="welcome_title">Tere tulemast</string>
     <string name="remove_hide_path">Kas eemaldame peidetud kausta?</string>
     <string name="help">Abiteave</string>

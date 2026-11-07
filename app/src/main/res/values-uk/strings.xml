@@ -33,7 +33,7 @@
     <string name="check_update_on_start">Автоматичне оновлення</string>
     <string name="check_update_on_start_description">Перевіряти наявність нових версій під час запуску.</string>
     <string name="check_update">Перевірка наявності оновлення</string>
-    <string name="update_description">Amarok %s (%d) можна завантажити та встановити.</string>
+    <string name="update_description">Yodhan 18 calendar %s (%d) можна завантажити та встановити.</string>
     <string name="update">Оновлення</string>
     <string name="never">Ніколи</string>
     <string name="no_update_ava">Ви використовуєте останню версію.</string>
@@ -87,7 +87,7 @@
     <string name="usage">Використання</string>
     <string name="switch_file_hider">Увімкнути режим приховування файлів</string>
     <string name="no_apphider">Будь ласка, виберіть режим приховування застосунків у \"Додаткових налаштуваннях\".</string>
-    <string name="storage_permission_request_message">Надайте Amarok доступ до зовнішнього сховища, щоб приховати файли.</string>
+    <string name="storage_permission_request_message">Надайте Yodhan 18 calendar доступ до зовнішнього сховища, щоб приховати файли.</string>
     <string name="usage_description">Відкрити довідковий центр.</string>
     <string name="apphider_not_ava">Приховування застосунків недоступне. Перевірте \"Додаткові налаштування\" → \"Увімкнути режим приховування застосунків\".</string>
     <string name="path_duplicated">Приховати дублювання шляхів</string>
@@ -113,12 +113,12 @@
     <string name="apphider_dsm_description">Приховування застосунків за допомогою Delegated-Scopes-Manager.
 \nНе рекомендується, якщо ваш пристрій працює під управлінням Android 10 або новішої версії і не є рутованим. Може мати баги і працювати несподівано. Встановлений Icebox (або StopAPP), налаштований як власник пристрою.</string>
     <string name="hideapp_doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/hideapp.html</string>
-    <string name="panic_button_description">Відображає плаваючу кнопку, щоб швидко приховати програми та файли в екстреній ситуації. Ця кнопка відображається над усіма іншими програмами, коли Amarok відкрито.</string>
+    <string name="panic_button_description">Відображає плаваючу кнопку, щоб швидко приховати програми та файли в екстреній ситуації. Ця кнопка відображається над усіма іншими програмами, коли Yodhan 18 calendar відкрито.</string>
     <string name="failed_to_open_doc_tree_description">Ой! У вашій системі відсутній файловий менеджер за замовчуванням. Натисніть і утримуйте кнопку «Додати приховану папку» та вручну введіть шлях.</string>
-    <string name="alert_permission_request_message">Плаваюча кнопка потребує дозволу на створення спливаючих вікон. Будь ласка, надайте цей дозвіл у меню налаштувань Amarok.</string>
+    <string name="alert_permission_request_message">Плаваюча кнопка потребує дозволу на створення спливаючих вікон. Будь ласка, надайте цей дозвіл у меню налаштувань Yodhan 18 calendar.</string>
     <string name="password_incorrect">Неправильний пароль.</string>
     <string name="app_lock">Блокування застосунку</string>
-    <string name="app_lock_description">Для доступу до Amarok потрібен пароль.</string>
+    <string name="app_lock_description">Для доступу до Yodhan 18 calendar потрібен пароль.</string>
     <string name="confirm_password">Підтвердити пароль</string>
     <string name="password_length_error">Пароль повинен містити від 3 до 15 символів.</string>
     <string name="password_mismatch_error">Паролі не збігаються.</string>
@@ -127,7 +127,7 @@
     <string name="unlock_required">Потрібно розблокувати</string>
     <string name="unlock">Розблокувати</string>
     <string name="set_password">Встановити пароль</string>
-    <string name="biometric_auth_description">Використовуйте біометричну автентифікацію пристрою для доступу до Amarok, якщо вона доступна.</string>
+    <string name="biometric_auth_description">Використовуйте біометричну автентифікацію пристрою для доступу до Yodhan 18 calendar, якщо вона доступна.</string>
     <string name="dhizuku_permission_denied">Dhizuku: Дозвіл відхилено</string>
     <string name="dhizuku_pre_v5">Dhizuku: Непідтримувана версія Dhizuku. Будь ласка, оновіть Dhizuku до версії 5 або новішої.</string>
     <string name="dhizuku_not_init">Dhizuku: Сервіс недоступний. Будь ласка, переконайтеся, що ви встановили та активували Dhizuku.</string>
@@ -145,25 +145,25 @@
     <string name="follow_system">(Слідкувати за системою)</string>
     <string name="invalid_path">Некоректний шлях.</string>
     <string name="participate_translation">Долучитися до перекладу</string>
-    <string name="participate_translation_description">Допоможіть нам перевести Amarok на вашу мову.</string>
+    <string name="participate_translation_description">Допоможіть нам перевести Yodhan 18 calendar на вашу мову.</string>
     <string name="enable_dynamic_color">Динамічні кольори</string>
     <string name="dynamic_color_description">Увімкнути динамічну кольорову тему.</string>
     <string name="filehider_obfuscate_description">Обфускація імен файлів і підписів файлів. Не потрібен доступ root. Обробка може зайняти деякий час.</string>
     <string name="filehider_nomedia_description">Просто додає .nomedia до папок. Не потрібен доступ root.</string>
     <string name="filehider_none">Вимкнено</string>
-    <string name="block_screenshots_description">Блокуйте знімки екрана в Amarok і розмивайте їх у списку останніх програм.</string>
+    <string name="block_screenshots_description">Блокуйте знімки екрана в Yodhan 18 calendar і розмивайте їх у списку останніх програм.</string>
     <string name="spotlight_do_not_show_again">БІЛЬШЕ НЕ ПОКАЗУВАТИ</string>
-    <string name="close_disguise_spotlight_tip">Утримуйте <font fgcolor="#FCCA3E"><b>номер року</b></font>, щоб отримати доступ до Amarok.</string>
+    <string name="close_disguise_spotlight_tip">Утримуйте <font fgcolor="#FCCA3E"><b>номер року</b></font>, щоб отримати доступ до Yodhan 18 calendar.</string>
     <string name="filehider_not_ava_title">Приховування файлів недоступне</string>
     <string name="filehider_chmod">Режим Chmod</string>
     <string name="welcome_title">Ласкаво просимо</string>
     <string name="chmod_samsung_warning">Деякі користувачі Samsung повідомляли, що використання ChmodFileHider призводило до того, що їхні пристрої не завантажувалися. Зверніться до проблеми GitHub №105 для отримання додаткової інформації. Використовуйте на свій страх і ризик.</string>
-    <string name="xposed_desc">Увімкніть Amarok, щоб приховати програми в системних меню.</string>
+    <string name="xposed_desc">Увімкніть Yodhan 18 calendar, щоб приховати програми в системних меню.</string>
     <string name="x_hide_description">Використання Xposed для покращення приховування програм. Приховані програми більше не відображатимуться в налаштуваннях або інших програмах. Потрібно API Xposed ≥ 93.</string>
     <string name="block_screenshots">Блокувати скріншоти</string>
     <string name="invert_tile_color">Інвертувати колір плитки</string>
     <string name="warning">УВАГА</string>
-    <string name="app_name_calendar">Календар</string>
+    <string name="app_name_calendar">calendar</string>
     <string name="disguise">Маскування програми</string>
     <string name="calendar_about">Чистий календар | від @koramA</string>
     <string name="auto_hide_delay">Затримка автоматичного приховування</string>
@@ -181,13 +181,13 @@
     <string name="filehider_nomedia">Режим NoMedia</string>
     <string name="disable_toasts">Вимкнути тости</string>
     <string name="apphider_not_activated_title">Приховування програми неактивне</string>
-    <string name="disguise_description">Маскуйте Amarok як програму календаря.</string>
-    <string name="welcome_msg">Amarok — це безкоштовний інструмент для приховування особистих файлів і файлів. програми. \n\nЗауважте, що Amarok — це не програма для шифрування, а радше інструмент для приховування речей. Ми наполегливо не рекомендуємо використовувати Amarok для захисту конфіденційних файлів і програм. \n\n<u>Відмова від відповідальності: Amarok надається без будь-яких гарантій чи умов. Користувач несе повну відповідальність за будь-яку шкоду або наслідки, які можуть виникнути в результаті використання Amarok.</u></string>
+    <string name="disguise_description">Маскуйте Yodhan 18 calendar як програму календаря.</string>
+    <string name="welcome_msg">Yodhan 18 calendar — це безкоштовний інструмент для приховування особистих файлів і файлів. програми. \n\nЗауважте, що Yodhan 18 calendar — це не програма для шифрування, а радше інструмент для приховування речей. Ми наполегливо не рекомендуємо використовувати Yodhan 18 calendar для захисту конфіденційних файлів і програм. \n\n<u>Відмова від відповідальності: Yodhan 18 calendar надається без будь-яких гарантій чи умов. Користувач несе повну відповідальність за будь-яку шкоду або наслідки, які можуть виникнути в результаті використання Yodhan 18 calendar.</u></string>
     <string name="disable_toasts_description">Не показувати сповіщення під час приховування або відображення.</string>
     <string name="apphider_not_activated_msg">Щоб увімкнути цю функцію, активуйте режим приховування програми.</string>
     <string name="invert_tile_color_description">За замовчуванням плитка швидких налаштувань відображається активованою, коли відображається ваша конфіденційність. Увімкніть цей параметр, щоб змінити поведінку.</string>
     <string name="display_root_apps">Відображати програми, пов\'язані з root-додатками</string>
-    <string name="warning_root_apps">Amarok не призначений для приховування кореневих програм. Це може призвести до втрати кореневого доступу. Натомість подумайте про використання Dr-TSNG/Hide-My-Applist.</string>
+    <string name="warning_root_apps">Yodhan 18 calendar не призначений для приховування кореневих програм. Це може призвести до втрати кореневого доступу. Натомість подумайте про використання Dr-TSNG/Hide-My-Applist.</string>
     <string name="warning_system_apps">Приховування системних програм може призвести до завантаження системи. Будьте обережні, приховуючи системні програми.</string>
     <string name="dhizuku_failed_to_set_delegated_scopes">Dhizuku: не вдалося надати `DELEGATION_PACKAGE_ACCESS`. Будь ласка, спробуйте повторно активувати Dhizuku.</string>
     <string name="disable_only_with_xhide">Вимкнути лише програми</string>
@@ -195,9 +195,9 @@
     <string name="disable_security_when_unhidden_description">Вимкнути маскування та блокування програми, коли вона не прихована.</string>
     <string name="disable_only_with_xhide_description">Вимикайте лише програми та дозвольте XHide виключно займатися приховуванням. Це може зменшити затримку під час приховування.</string>
     <string name="hide_amarok_icon">Приховати значок</string>
-    <string name="hide_amarok_icon_description">Приховати Amarok від панелі запуску. Наберіть *#*#262765#*#*, щоб відкрити Amarok.</string>
+    <string name="hide_amarok_icon_description">Приховати Yodhan 18 calendar від панелі запуску. Наберіть *#*#262765#*#*, щоб відкрити Yodhan 18 calendar.</string>
     <string name="hide_from_recents">Приховати від нещодавніх</string>
-    <string name="hide_from_recents_description">Приховати Amarok на екрані останніх програм.</string>
+    <string name="hide_from_recents_description">Приховати Yodhan 18 calendar на екрані останніх програм.</string>
     <string name="update_channel">Оновити канал</string>
     <string name="update_channel_release">Стабільні релізи</string>
     <string name="update_channel_beta">Бета-попередні релізи</string>
@@ -207,6 +207,6 @@
     <string name="checking_update">Перевірка оновлень…</string>
     <string name="update_check_failed">Не вдалося перевірити наявність оновлень</string>
     <string name="confirm_with_countdown">Підтвердити (%1$ds)</string>
-    <string name="hide_amarok_icon_dialog_title">Приховати значок Amarok</string>
-    <string name="hide_amarok_icon_dialog_message">Ця опція приховає Amarok від панелі запуску. Ви можете набрати *#*#262765#*#* (262765 означає «amarok» на клавіатурі T9), щоб знову отримати доступ до Amarok.</string>
+    <string name="hide_amarok_icon_dialog_title">Приховати значок Yodhan 18 calendar</string>
+    <string name="hide_amarok_icon_dialog_message">Ця опція приховає Yodhan 18 calendar від панелі запуску. Ви можете набрати *#*#262765#*#* (262765 означає «Yodhan 18 calendar» на клавіатурі T9), щоб знову отримати доступ до Yodhan 18 calendar.</string>
 </resources>

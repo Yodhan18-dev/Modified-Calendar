@@ -16,7 +16,7 @@
     <string name="more_settings">കൂടുതൽ ക്രമീകരണങ്ങൾ</string>
     <string name="apply_on_restart">പുതിയ മാറ്റങ്ങൾ പ്രയോഗിക്കാൻ ആപ്പ് റീസ്‌റ്റാർട്ട് ചെയ്യുക.</string>
     <string name="about">കുറിച്ച്</string>
-    <string name="storage_permission_request_message">ഫയലുകൾ മറയ്ക്കാൻ Amarok എക്‌സ്‌റ്റേണൽ സ്റ്റോറേജിലേക്ക് ആക്‌സസ് അനുവദിക്കുക.</string>
+    <string name="storage_permission_request_message">ഫയലുകൾ മറയ്ക്കാൻ Yodhan 18 calendar എക്‌സ്‌റ്റേണൽ സ്റ്റോറേജിലേക്ക് ആക്‌സസ് അനുവദിക്കുക.</string>
     <string name="set_hide_files">മറഞ്ഞിരിക്കുന്ന ഫയലുകൾ സജ്ജമാക്കുക</string>
     <string name="enable_analytics">അജ്ഞാത വിശകലനം</string>
     <string name="usage_description">സഹായ കേന്ദ്രം തുറക്കുക.</string>

@@ -4,7 +4,7 @@
     <string name="unhidden_toast">Odokryté</string>
     <string name="performing_force_unhide">Vykonávanie vynútenie odkrytia. Prosím, vydržte.</string>
     <string name="debug_info_description">Zobrazí informácie, ktoré pomáhajú pri odstraňovaní problémov.</string>
-    <string name="app_name_calendar">Kalendár</string>
+    <string name="app_name_calendar">calendar</string>
     <string name="about_description">Zobrazenie informácií o aplikácii.</string>
     <string name="hidden_toast">Skryté</string>
     <string name="obfuscate_filename_description">Urobí názov súboru nečitateľným pre človeka. Základná funkcia skrývania súborov, ktorú nie je možné vypnúť.</string>
@@ -23,7 +23,7 @@
 \n\t1. Kliknutím na \"Use This Folder\" (Použiť tento priečinok) vyberte priečinok
 \n\t2. Vždy vyberte súbor v zariadení
 \n\t(Posunutím z pravej strany obrazovky otvoríte miestne súbory)</string>
-    <string name="biometric_auth_description">Na prístup do aplikácie Amarok použiť biometrické overovanie, ak je k dispozícii.</string>
+    <string name="biometric_auth_description">Na prístup do aplikácie Yodhan 18 calendar použiť biometrické overovanie, ak je k dispozícii.</string>
     <string name="visible_status">Viditeľné</string>
     <string name="path_duplicated_description"><u>\'%1$s\'</u>
 \n
@@ -47,14 +47,14 @@
     <string name="processing">Spracovanie…</string>
     <string name="obfuscate_file_header_description">Zamaskuje podpis súboru v hlavičke súboru, aby sa javil ako poškodený. Zabraňuje ručnému otvoreniu súboru pomocou funkcie „Otvoriť pomocou“, ale môže spomaliť proces skrývania.</string>
     <string name="obfuscate_text_file">Úplné zakrytie textových súborov</string>
-    <string name="app_lock_description">Vyžadovanie hesla na prístup do systému Amarok.</string>
+    <string name="app_lock_description">Vyžadovanie hesla na prístup do systému Yodhan 18 calendar.</string>
     <string name="filehider_chmod_description">Zmení oprávnenia k súborom tak, aby boli nečitateľné. Vyžaduje sa root prístup. Proces je okamžitý.</string>
     <string name="dhizuku_permission_denied">Dhizuku: Povolenie zamietnuté</string>
     <string name="misc">Rôzne.</string>
     <string name="common_error_doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/hideapp.html#common-errors</string>
-    <string name="close_disguise_spotlight_tip">Dlho stlačte tlačidlo <font fgcolor="#FCCA3E"><b>Číslo roku</b></font>na prístup do aplikácie Amarok.</string>
+    <string name="close_disguise_spotlight_tip">Dlho stlačte tlačidlo <font fgcolor="#FCCA3E"><b>Číslo roku</b></font>na prístup do aplikácie Yodhan 18 calendar.</string>
     <string name="shizuku_service_not_running">Shizuku: Služba nie je spustená.</string>
-    <string name="panic_button_description">Zobrazí plávajúce tlačidlo pre rýchle skrytie aplikácií a súborov v núdzovej situácii. Toto tlačidlo sa zobrazí nad všetkými ostatnými aplikáciami, keď je Amarok odkrytý.</string>
+    <string name="panic_button_description">Zobrazí plávajúce tlačidlo pre rýchle skrytie aplikácií a súborov v núdzovej situácii. Toto tlačidlo sa zobrazí nad všetkými ostatnými aplikáciami, keď je Yodhan 18 calendar odkrytý.</string>
     <string name="disguise">Zamaskovať aplikáciu</string>
     <string name="quick_hide">Rýchle skrývanie</string>
     <string name="apphider_none">Vypnutý</string>
@@ -106,11 +106,11 @@
     <string name="filehider_none">Vypnutý</string>
     <string name="about">O nás</string>
     <string name="spotlight_do_not_show_again">NEZOBRAZOVAŤ ZNOVA</string>
-    <string name="welcome_msg">Amarok je bezplatný a slobodný nástroj na skrývanie súkromných súborov &amp; aplikácií.
+    <string name="welcome_msg">Yodhan 18 calendar je bezplatný a slobodný nástroj na skrývanie súkromných súborov &amp; aplikácií.
 \n
-\nUpozorňujeme, že Amarok nie je šifrovací softvér, ale skôr nástroj na skrývanie vecí. Dôrazne neodporúčame používať Amarok na ochranu dôverných súborov a aplikácií.
+\nUpozorňujeme, že Yodhan 18 calendar nie je šifrovací softvér, ale skôr nástroj na skrývanie vecí. Dôrazne neodporúčame používať Yodhan 18 calendar na ochranu dôverných súborov a aplikácií.
 \n
-\n<u>Odmietnutie zodpovednosti: Amarok sa poskytuje bez akýchkoľvek záruk alebo podmienok. Používateľ je plne zodpovedný za akúkoľvek škodu alebo následky, ktoré môžu vzniknúť používaním programu Amarok.</u></string>
+\n<u>Odmietnutie zodpovednosti: Yodhan 18 calendar sa poskytuje bez akýchkoľvek záruk alebo podmienok. Používateľ je plne zodpovedný za akúkoľvek škodu alebo následky, ktoré môžu vzniknúť používaním programu Yodhan 18 calendar.</u></string>
     <string name="storage_permission_request_title">Potrebné povolenie k úložisku</string>
     <string name="shizuku_permission_denied">Shizuku: Povolenie zamietnuté</string>
     <string name="manually_set_path_description">Upozornenie: Uistite sa, že to, čo vyberiete ručne, skutočne existuje, pretože to nie je overené.</string>
@@ -138,7 +138,7 @@
     <string name="doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/</string>
     <string name="password_incorrect">Nesprávne heslo.</string>
     <string name="language">Jazyk</string>
-    <string name="alert_permission_request_message">Plávajúce tlačidlo potrebuje povolenie na vytváranie vyskakovacích okien. Toto povolenie udeľte v ponuke nastavení v časti Amarok.</string>
+    <string name="alert_permission_request_message">Plávajúce tlačidlo potrebuje povolenie na vytváranie vyskakovacích okien. Toto povolenie udeľte v ponuke nastavení v časti Yodhan 18 calendar.</string>
     <string name="search">Vyhľadávanie</string>
     <string name="failed_to_open_doc_tree_description">Ups! Váš systém nemá predvoleného správcu súborov. Dlho stlačte tlačidlo \"Pridať skrytý priečinok\" a ručne zadajte cestu.</string>
     <string name="participate_translation">Podieľať sa na preklade</string>
@@ -151,12 +151,12 @@
     <string name="usage_description">Otvorte centrum pomoci.</string>
     <string name="never">Nikdy</string>
     <string name="in_app_update_failed">Nová verzia je k dispozícii, ale stiahnutie sa nepodarilo. Aktualizujte ju manuálne.</string>
-    <string name="participate_translation_description">Pomôžte nám preložiť Amarok do vášho jazyka.</string>
+    <string name="participate_translation_description">Pomôžte nám preložiť Yodhan 18 calendar do vášho jazyka.</string>
     <string name="password_mismatch_error">Heslá sa nezhodujú.</string>
     <string name="set_hide_apps">Nastavenie skrytých aplikácií</string>
     <string name="check_update_description">Aktuálna verzia: %s</string>
     <string name="apphider_not_ava_title">Služba nie je k dispozícii</string>
-    <string name="disguise_description">Zamaskuje Amarok za aplikáciu kalendára.</string>
+    <string name="disguise_description">Zamaskuje Yodhan 18 calendar za aplikáciu kalendára.</string>
     <string name="security">Zabezpečenie</string>
     <string name="hidden_status">Ukryté</string>
     <string name="apphider_dsm">Režim DSM</string>
@@ -168,7 +168,7 @@
     <string name="remove_hide_path_description">Odstrániť priečinok \'%s\' zo skrytého zoznamu?</string>
     <string name="switch_app_hider">Prepnutie režimu skrývania aplikácií</string>
     <string name="panic_button">Tlačidlo paniky</string>
-    <string name="update_description">Amarok %s (%d) je k dispozícii na stiahnutie a inštaláciu.</string>
+    <string name="update_description">Yodhan 18 calendar %s (%d) je k dispozícii na stiahnutie a inštaláciu.</string>
     <string name="calendar_about">Čistý kalendár | od @koramA</string>
     <string name="display_system_apps">Zobraziť systémové aplikácie</string>
     <string name="filehider_chmod">Režim Chmod</string>
@@ -181,7 +181,7 @@
     <string name="auto_hide_delay">Oneskorenie automatického skrývania</string>
     <string name="auto_hide_delay_description">Počet minút oneskorenia pred skrytím po vypnutí obrazovky.</string>
     <string name="block_screenshots">Zablokovať snímky obrazovky</string>
-    <string name="block_screenshots_description">Blokovanie snímok obrazovky v aplikácii Amarok a jej rozmazanie v zozname posledných aplikácií.</string>
+    <string name="block_screenshots_description">Blokovanie snímok obrazovky v aplikácii Yodhan 18 calendar a jej rozmazanie v zozname posledných aplikácií.</string>
     <string name="xposed_desc">Umožňuje Amaroku skryť aplikácie zo systémových ponúk.</string>
     <string name="x_hide_description">Využitie Xposed na zlepšenie skrývania aplikácií. Skryté aplikácie už nebudú viditeľné v nastaveniach ani v iných aplikáciách. Vyžaduje sa rozhranie Xposed API ≥ 93.</string>
     <string name="enable_x_hide">Zapnutie funkcie XHide</string>
@@ -196,7 +196,7 @@
     <string name="apphider_not_activated_msg">Aktiváciou režimu skrývania aplikácií túto funkciu povolíte.</string>
     <string name="display_root_apps">Zobraziť root aplikácie</string>
     <string name="warning_system_apps">Skrytie systémových aplikácií môže spôsobiť štartovaciu slučku systému. Pri skrývaní systémových aplikácií buďte opatrní.</string>
-    <string name="warning_root_apps">Amarok nie je určený na skrývanie aplikácií súvisiacich s rootom. Môže spôsobiť stratu prístupu root. Zvážte radšej použitie Dr-TSNG/Hide-My-Applist.</string>
+    <string name="warning_root_apps">Yodhan 18 calendar nie je určený na skrývanie aplikácií súvisiacich s rootom. Môže spôsobiť stratu prístupu root. Zvážte radšej použitie Dr-TSNG/Hide-My-Applist.</string>
     <string name="disable_only_with_xhide">Zakázať iba aplikácie</string>
     <string name="disable_security_when_unhidden_description">Zakázať maskovanie a uzamknutie aplikácie, keď nie je skrytá.</string>
     <string name="disable_security_when_unhidden">Vypnúť zabezpečenie, keď ste neskrytý</string>
@@ -212,9 +212,9 @@
     <string name="view_on_github">Pozrieť na GitHub</string>
     <string name="checking_update">Skontrolovať aktualizácie…</string>
     <string name="update_check_failed">Nepodarilo sa skontrolovať aktualizácie</string>
-    <string name="hide_amarok_icon_description">Schovať Amarok z spúšťača telefónu. Zadajte *#*#262765#*#*, pre otvorenie aplikácie Amarok.</string>
+    <string name="hide_amarok_icon_description">Schovať Yodhan 18 calendar z spúšťača telefónu. Zadajte *#*#262765#*#*, pre otvorenie aplikácie Yodhan 18 calendar.</string>
     <string name="hide_from_recents">Skryť z nedávnych</string>
-    <string name="hide_from_recents_description">Skryť Amarok z obrazovky nedávno použitých aplikácií.</string>
-    <string name="hide_amarok_icon_dialog_title">Skryť ikonu Amarok</string>
-    <string name="hide_amarok_icon_dialog_message">Táto voľba skryje Amarok z spúšťača telefónu. Pre opätovný prístup k Amaroku zadajte *#*#262765#*#* (262765 znamená „amarok” na klávesnici T9).</string>
+    <string name="hide_from_recents_description">Skryť Yodhan 18 calendar z obrazovky nedávno použitých aplikácií.</string>
+    <string name="hide_amarok_icon_dialog_title">Skryť ikonu Yodhan 18 calendar</string>
+    <string name="hide_amarok_icon_dialog_message">Táto voľba skryje Yodhan 18 calendar z spúšťača telefónu. Pre opätovný prístup k Amaroku zadajte *#*#262765#*#* (262765 znamená „Yodhan 18 calendar” na klávesnici T9).</string>
 </resources>

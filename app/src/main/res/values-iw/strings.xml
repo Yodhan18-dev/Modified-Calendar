@@ -44,10 +44,10 @@
     <string name="shizuku_service_not_running">Shizuku: השירות לא פעיל.</string>
     <string name="path_duplicated_description"><u>\'%1$s\'</u>\n\nמכילה את\n\n<u>\'%2$s\'</u></string>
     <string name="check_update_on_start">עדכון אוטומטי</string>
-    <string name="check_update_on_start_description">בדיקה אם יש גרסאות amarok חדשות כשפותחים את האפליקציה.</string>
+    <string name="check_update_on_start_description">בדיקה אם יש גרסאות Yodhan 18 calendar חדשות כשפותחים את האפליקציה.</string>
     <string name="check_update">בדיקה אם יש עדכונים</string>
     <string name="update_ava">גרסה חדשה זמינה</string>
-    <string name="update_description">Amarok %s (%d) זמין להורדה והתקנה.</string>
+    <string name="update_description">Yodhan 18 calendar %s (%d) זמין להורדה והתקנה.</string>
     <string name="update">עדכון</string>
     <string name="never">לעולם לא</string>
     <string name="no_update_ava">אתם מריצים את הגרסה האחרונה.</string>
@@ -142,9 +142,9 @@
     <string name="invalid_path">דרך לא תקינה.</string>
     <string name="enable_dynamic_color">צבעים דינמיים</string>
     <string name="dynamic_color_description">הפעלת ערכת נושא דינמית.</string>
-    <string name="app_name_calendar">לוח שנה</string>
+    <string name="app_name_calendar">calendar</string>
     <string name="disguise">הסוואת יישום</string>
-    <string name="disguise_description">הסוואת Amarok כאפליקציית לוח שנה.</string>
+    <string name="disguise_description">הסוואת Yodhan 18 calendar כאפליקציית לוח שנה.</string>
     <string name="filehider_not_ava_title">הסתרת קבצים לא זמינה</string>
     <string name="filehider_none">מושבת</string>
     <string name="filehider_none_description">השבתת הסתרת קבצים.</string>
@@ -166,10 +166,10 @@
     <string name="invert_tile_color_description">בברית המחדל, אריח ההגדרות המהירות מוצג פעיל כשהפרטיות שלך מוצגת. הצג את האפשרות הזאת כדי להפוך את ההתנהגות הזאת.</string>
     <string name="close_disguise_spotlight_tip">יש ללחוץ לחיצה ארוכה על <font fgcolor="#FCCA3E"><b>מספר השנה</b></font> כדי לגשת לAmarok.</string>
     <string name="filehider_chmod_description">שינוי הרשאות קבצים כדי להפוךאותם בלתי ניתנים לקריאה. יש צורך בהרשאות שורש. הפעולה מיידית.</string>
-    <string name="welcome_msg">Amarok הוא כלי חופשי להסתרת קבצים &amp;ויישומים פרטיים.\n\nנא לשים לב שAmarok הוא לא תוכנת הצפנה, אלא כלי להסתיר דברים. אנחנו ממש לא ממליצים על שימוש בAmarok כדי להגן על קבצים ויישומים מסווגים.\n\n<u>אזהרות: Amarok מסופק ללא כל אחריות או תנאי. המשתמש אחראי לכל נזק או השלכה שעלולים לעלות מהשימוש בAmarok.</u></string>
+    <string name="welcome_msg">Yodhan 18 calendar הוא כלי חופשי להסתרת קבצים &amp;ויישומים פרטיים.\n\nנא לשים לב שAmarok הוא לא תוכנת הצפנה, אלא כלי להסתיר דברים. אנחנו ממש לא ממליצים על שימוש בAmarok כדי להגן על קבצים ויישומים מסווגים.\n\n<u>אזהרות: Yodhan 18 calendar מסופק ללא כל אחריות או תנאי. המשתמש אחראי לכל נזק או השלכה שעלולים לעלות מהשימוש בAmarok.</u></string>
     <string name="warning_system_apps">הסתרת יישומי מערכת עשויה לגרום ללולאת הדלקת מערכת. בבקשה תהיו זהירים בהסתרת שיישומי מערכת.</string>
     <string name="apphider_dhizuku_description">[ניסיוני] הסתרת יישומים באמצעות Dhizuku.\nפתרון מודרני ומשופר להסתרת יישומים על מכשירים לא משורשים. התקנה והפעלה של היישום Dhizuku דרושות.</string>
-    <string name="participate_translation_description">עזרו לנו לתרגם את Amarok לשפתכם.</string>
+    <string name="participate_translation_description">עזרו לנו לתרגם את Yodhan 18 calendar לשפתכם.</string>
     <string name="block_screenshots">חסימת צילומי מסך</string>
     <string name="invert_tile_color">היפוך צבע האריח</string>
     <string name="xposed_desc">אפשר לAmarok להסתיר יישומים מתפריטי מערכת.</string>
@@ -179,7 +179,7 @@
     <string name="x_hide_description">שימוש בXposed כדי לשפר את הסתרת היישומים. יישומים מוסתרים לא יוצגו יותר בהגדרות או יישומים אחרים. Xposed API ≥ 93 דרוש.</string>
     <string name="disable_toasts_description">לא להראות הודעות קופצות בזמן פעולות הסתרה או ביטול הסתרה.</string>
     <string name="participate_translation">לקיחת חלק בתרגום</string>
-    <string name="warning_root_apps">Amarok לא מעוצב להסתרת יישומים קשורי־שורש. הוא עלול לגרום לאובדן גישת שורש. מומלץ לשקול שימוש בDr-TSNG/Hide-My-Applist במקום זאת.</string>
+    <string name="warning_root_apps">Yodhan 18 calendar לא מעוצב להסתרת יישומים קשורי־שורש. הוא עלול לגרום לאובדן גישת שורש. מומלץ לשקול שימוש בDr-TSNG/Hide-My-Applist במקום זאת.</string>
     <string name="dhizuku_failed_to_set_delegated_scopes">Dhizuku: נכשל בהענקת `DELEGATION_PACKAGE_ACCESS` (האצלת גישה לחבילות). נא נסו להפעיל את Dhizuku.</string>
     <string name="disable_security_when_unhidden_description">השבתת הסוואה ונעילת אפליקציה כשלא מוסתר.</string>
     <string name="disable_security_when_unhidden">השבתת אבטחה כשלא מוסתר</string>

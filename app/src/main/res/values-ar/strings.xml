@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="visible_status">ظاهر</string>
-    <string name="storage_permission_request_message">أعطي Amarok إذن الوصول للذاكرة الخارجية لإخفاء الملفات.</string>
+    <string name="storage_permission_request_message">أعطي Yodhan 18 calendar إذن الوصول للذاكرة الخارجية لإخفاء الملفات.</string>
     <string name="ok">حسنًا</string>
     <string name="setting_not_ava_when_hidden">هذا الإعداد متاح فقط بعد إلغاء إخفاء التطبيقات</string>
     <string name="about">حول</string>
@@ -15,7 +15,7 @@
     <string name="unhidden_toast">غير مخفي</string>
     <string name="performing_force_unhide">تنفيذ الإظهار بالقوة. فضلا على رسلك.</string>
     <string name="debug_info_description">يعرض معلومات للمساعدة في استكشاف المشكلات وإصلاحها.</string>
-    <string name="app_name_calendar">تقويم</string>
+    <string name="app_name_calendar">calendar</string>
     <string name="about_description">عرض معلومات حول التطبيق.</string>
     <string name="hidden_toast">مخفي</string>
     <string name="obfuscate_filename_description">يجعل اسم الملف غير قابل للقراءة البشرية. ميزة أساسية لإخفاء الملفات لا يمكن إيقافها.</string>
@@ -33,7 +33,7 @@
 \n← 1. انقر فوق \"استخدام هذا المجلد\" لتحديد المجلد
 \n← 2. حدد دائما ملفا على الجهاز
 \n← (مرر من يمين الشاشة لفتح الملفات المحلية)</string>
-    <string name="biometric_auth_description">استخدم المصادقة البيومترية للجهاز للوصول إلى Amarok، عندما يكون ذلك متاحًا.</string>
+    <string name="biometric_auth_description">استخدم المصادقة البيومترية للجهاز للوصول إلى Yodhan 18 calendar، عندما يكون ذلك متاحًا.</string>
     <string name="path_duplicated_description"><u>\'%1$s\'</u>
 \n
 \nيحتوي
@@ -53,13 +53,13 @@
     <string name="processing">يتم المعالجة…</string>
     <string name="obfuscate_file_header_description">يعمل على تمويه توقيع الملف في رأس الملف لجعله يبدو تالفًا. يمنع فتح الملف يدويًا باستخدام \"فتح بواسطة\"، ولكنه قد يؤدي إلى تباطؤ عملية الإخفاء.</string>
     <string name="obfuscate_text_file">تشويش الملفات النصية بالكامل</string>
-    <string name="app_lock_description">طلب كلمة مرور للوصول إلى Amarok.</string>
+    <string name="app_lock_description">طلب كلمة مرور للوصول إلى Yodhan 18 calendar.</string>
     <string name="dhizuku_permission_denied">Dhizuku: تم رفض الإذن</string>
     <string name="misc">متفرقات.</string>
     <string name="common_error_doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/hideapp.html#common-errors</string>
-    <string name="close_disguise_spotlight_tip">اضغط لفترة طويلة على <font fgcolor="#FCCA3E"> <b>رقم السنة</b></font> للوصول إلى Amarok.</string>
+    <string name="close_disguise_spotlight_tip">اضغط لفترة طويلة على <font fgcolor="#FCCA3E"> <b>رقم السنة</b></font> للوصول إلى Yodhan 18 calendar.</string>
     <string name="shizuku_service_not_running">Shizuku: الخدمة لا تعمل.</string>
-    <string name="panic_button_description">يعرض زرًا عائمًا لإخفاء التطبيقات والملفات بسرعة في حالات الطوارئ. يظهر هذا الزر فوق جميع التطبيقات الأخرى عندما يكون Amarok غير مخفي.</string>
+    <string name="panic_button_description">يعرض زرًا عائمًا لإخفاء التطبيقات والملفات بسرعة في حالات الطوارئ. يظهر هذا الزر فوق جميع التطبيقات الأخرى عندما يكون Yodhan 18 calendar غير مخفي.</string>
     <string name="disguise">تمويه التطبيق</string>
     <string name="quick_hide">إخفاء سريع</string>
     <string name="apphider_none">معطّل</string>
@@ -125,7 +125,7 @@
     <string name="doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/</string>
     <string name="password_incorrect">كلمة المرور غير صحيحة.</string>
     <string name="language">اللغة</string>
-    <string name="alert_permission_request_message">الزر العائم يحتاج إلى إذن لإنشاء نوافذ منبثقة. يرجى منح هذا الإذن في قائمة الإعدادات تحت قسم Amarok.</string>
+    <string name="alert_permission_request_message">الزر العائم يحتاج إلى إذن لإنشاء نوافذ منبثقة. يرجى منح هذا الإذن في قائمة الإعدادات تحت قسم Yodhan 18 calendar.</string>
     <string name="search">البحث</string>
     <string name="failed_to_open_doc_tree_description">عذرًا! نظامك يفتقر إلى مدير ملفات افتراضي. يرجى الضغط مطولًا على زر \"إضافة مجلد مخفي\" وإدخال المسار يدويًا.</string>
     <string name="participate_translation">المشاركة في الترجمة</string>
@@ -141,7 +141,7 @@
     <string name="password_mismatch_error">كلمات المرور غير متطابقة.</string>
     <string name="check_update_description">الإصدار الحالي: %s</string>
     <string name="apphider_not_ava_title">الخدمة غير متوفرة</string>
-    <string name="disguise_description">تمويه Amarok كتطبيق تقويم.</string>
+    <string name="disguise_description">تمويه Yodhan 18 calendar كتطبيق تقويم.</string>
     <string name="security">الأمن</string>
     <string name="apphider_dsm">وضع DSM</string>
     <string name="app_lock">قفل التطبيق</string>
@@ -152,7 +152,7 @@
     <string name="remove_hide_path_description">إزالة المجلد \'%s\' من القائمة المخفية؟</string>
     <string name="switch_app_hider">تبديل وضع إخفاء التطبيق</string>
     <string name="panic_button">زر الذعر</string>
-    <string name="update_description">Amarok %s (%d) متاح للتنزيل والتثبيت.</string>
+    <string name="update_description">Yodhan 18 calendar %s (%d) متاح للتنزيل والتثبيت.</string>
     <string name="calendar_about">التقويم النقي | بواسطة @koramA</string>
     <string name="display_system_apps">عرض تطبيقات النظام</string>
     <string name="enable_dynamic_color">لون ديناميكي</string>
@@ -164,11 +164,11 @@
     <string name="filehider_obfuscate_description">تشويش أسماء الملفات وتوقيعات الملفات. لا يتطلب صلاحيات الجذر. قد يستغرق بعض الوقت للمعالجة.</string>
     <string name="filehider_nomedia">وضع لا وسائط</string>
     <string name="filehider_none">معطّل</string>
-    <string name="welcome_msg">Amarok هي أداة مجانية وحرة لإخفاء الملفات والتطبيقات الخاصة.
+    <string name="welcome_msg">Yodhan 18 calendar هي أداة مجانية وحرة لإخفاء الملفات والتطبيقات الخاصة.
 \n
-\nيرجى ملاحظة أن Amarok ليس برنامج تشفير، بل أداة لإخفاء الأشياء. ننصح بشدة بعدم استخدام Amarok لحماية الملفات والتطبيقات السرية.
+\nيرجى ملاحظة أن Yodhan 18 calendar ليس برنامج تشفير، بل أداة لإخفاء الأشياء. ننصح بشدة بعدم استخدام Yodhan 18 calendar لحماية الملفات والتطبيقات السرية.
 \n
-\n<u>إخلاء المسؤولية: يتم توفير Amarok دون أي ضمانات أو شروط. يتحمل المستخدم المسؤولية الكاملة عن أي ضرر أو عواقب قد تنشأ عن استخدام Amarok.</u></string>
+\n<u>إخلاء المسؤولية: يتم توفير Yodhan 18 calendar دون أي ضمانات أو شروط. يتحمل المستخدم المسؤولية الكاملة عن أي ضرر أو عواقب قد تنشأ عن استخدام Yodhan 18 calendar.</u></string>
     <string name="welcome_title">مرحباً</string>
     <string name="filehider_obfuscate">وضع التشويش</string>
     <string name="filehider_not_ava_title">إخفاء الملف غير متوفر</string>
@@ -180,8 +180,8 @@
     <string name="auto_hide_delay_description">عدد دقائق التأخير قبل الإخفاء بعد إطفاء الشاشة.</string>
     <string name="appearance">المظهر</string>
     <string name="auto_hide_description">إخفاء تلقائي بعد إطفاء الشاشة.</string>
-    <string name="block_screenshots_description">حظر لقطات الشاشة في Amarok وطمسها في قائمة التطبيقات الحديثة.</string>
-    <string name="xposed_desc">تمكين Amarok لإخفاء التطبيقات من قوائم النظام.</string>
+    <string name="block_screenshots_description">حظر لقطات الشاشة في Yodhan 18 calendar وطمسها في قائمة التطبيقات الحديثة.</string>
+    <string name="xposed_desc">تمكين Yodhan 18 calendar لإخفاء التطبيقات من قوائم النظام.</string>
     <string name="xposed_active">نشط، Xposed API %d</string>
     <string name="x_hide_description">استخدام Xpose لتحسين إخفاء التطبيقات. لن تكون التطبيقات المخفية مرئية بعد الآن في الإعدادات أو التطبيقات الأخرى. مطلوب Xpose API ≥ 93.</string>
     <string name="xposed_inactive">الإضافة غير نشطة. تحقق من مدير Xposed؟</string>
@@ -196,14 +196,14 @@
     <string name="invert_tile_color_description">افتراضيًا، يظهر مربع الإعدادات السريعة نشطًا عندما تكون خصوصيتك مرئية. قم بتبديل هذا الخيار لعكس السلوك.</string>
     <string name="warning_system_apps">قد يؤدي إخفاء تطبيقات النظام إلى حدوث حلقة إعادة تشغيل للنظام. يرجى توخي الحذر عند إخفاء تطبيقات النظام.</string>
     <string name="display_root_apps">عرض التطبيقات المتعلقة بالجذر</string>
-    <string name="warning_root_apps">Amarok ليس مصممًا لإخفاء التطبيقات المتعلقة بالروت. قد يؤدي إلى فقدان صلاحيات الروت. يُفضل استخدام Dr-TSNG/Hide-My-Applist بدلاً من ذلك.</string>
+    <string name="warning_root_apps">Yodhan 18 calendar ليس مصممًا لإخفاء التطبيقات المتعلقة بالروت. قد يؤدي إلى فقدان صلاحيات الروت. يُفضل استخدام Dr-TSNG/Hide-My-Applist بدلاً من ذلك.</string>
     <string name="dhizuku_failed_to_set_delegated_scopes">Dhizuku: فشل في المنح `DELEGATION_PACKAGE_ACCESS`. يرجى محاولة إعادة تنشيط Dhizuku.</string>
     <string name="disable_security_when_unhidden">تعطيل الحماية عند الإظهار</string>
     <string name="disable_security_when_unhidden_description">تعطيل التنكر وقفل التطبيق عند عدم الإخفاء.</string>
     <string name="disable_only_with_xhide">تعطيل التطبيقات فقط</string>
     <string name="disable_only_with_xhide_description">قم فقط بتعطيل التطبيقات ودَع XHide يتولى الإخفاء بشكل حصري. قد يقلل ذلك من التباطؤ أثناء عملية الإخفاء.</string>
     <string name="hide_amarok_icon">إخفاء الأيقونة</string>
-    <string name="hide_amarok_icon_description">إخفاء Amarok من المشغل. اطلب *#*#262765#*#* لفتح Amarok.</string>
+    <string name="hide_amarok_icon_description">إخفاء Yodhan 18 calendar من المشغل. اطلب *#*#262765#*#* لفتح Yodhan 18 calendar.</string>
     <string name="confirm_with_countdown">يتأكد (%1$ds)</string>
     <string name="update_channel">تحديث القناة</string>
     <string name="update_channel_release">‎إصدارات مستقرة</string>
@@ -214,7 +214,7 @@
     <string name="checking_update">جارٍ التحقق من وجود تحديثات…</string>
     <string name="update_check_failed">فشل التحقق من وجود تحديثات</string>
     <string name="hide_from_recents">إخفاء من آخر الأخبار</string>
-    <string name="hide_from_recents_description">قم بإخفاء تطبيق Amarok من قائمة التطبيقات الحديثة.</string>
-    <string name="hide_amarok_icon_dialog_title">إخفاء أيقونة Amarok</string>
-    <string name="hide_amarok_icon_dialog_message">سيؤدي هذا الخيار إلى إخفاء Amarok من قائمة التطبيقات. يمكنك طلب الرقم *#*#262765#*#* (حيث يُكتب الرقم 262765 على لوحة مفاتيح T9 كلمة \"amarok\") للوصول إلى Amarok مرة أخرى.</string>
+    <string name="hide_from_recents_description">قم بإخفاء تطبيق Yodhan 18 calendar من قائمة التطبيقات الحديثة.</string>
+    <string name="hide_amarok_icon_dialog_title">إخفاء أيقونة Yodhan 18 calendar</string>
+    <string name="hide_amarok_icon_dialog_message">سيؤدي هذا الخيار إلى إخفاء Yodhan 18 calendar من قائمة التطبيقات. يمكنك طلب الرقم *#*#262765#*#* (حيث يُكتب الرقم 262765 على لوحة مفاتيح T9 كلمة \"Yodhan 18 calendar\") للوصول إلى Yodhan 18 calendar مرة أخرى.</string>
 </resources>

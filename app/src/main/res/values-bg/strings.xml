@@ -10,7 +10,7 @@
     <string name="usage">Документация</string>
     <string name="current_mode">Текущ режим: %s</string>
     <string name="switch_file_hider">Промяна на режим за файлове</string>
-    <string name="apply_on_restart">Рестартирайте Amarok, за да приложите новите промени.</string>
+    <string name="apply_on_restart">Рестартирайте Yodhan 18 calendar, за да приложите новите промени.</string>
     <string name="hidden_toast">Скрити. Ку-ку-ригууу!</string>
     <string name="show_debug_info">Информация за отстраняване на грешки</string>
     <string name="hide_app_failed_admin_inactive">Не успяхме да скрием приложението: DSM доставчикът не е активен.</string>

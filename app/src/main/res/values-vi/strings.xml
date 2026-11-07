@@ -22,7 +22,7 @@
     <string name="unhide">Bỏ ẩn</string>
     <string name="setting_not_ava_when_hidden">Thiết đặt này chỉ có thể dùng sau khi bỏ ẩn</string>
     <string name="cancel">Hủy bỏ</string>
-    <string name="storage_permission_request_message">Cấp quyền cho Amarok truy cập vào bộ nhớ ngoài để làm ẩn tệp.</string>
+    <string name="storage_permission_request_message">Cấp quyền cho Yodhan 18 calendar truy cập vào bộ nhớ ngoài để làm ẩn tệp.</string>
     <string name="hide">Ẩn</string>
     <string name="apphider_not_ava">Tính năng Ẩn ứng dụng không khả dụng. Kiểm tra \"Thiết đặt khác\" → \"Chuyển đổi chế độ ẩn ứng dụng\".</string>
     <string name="show_about">Hiển thị thêm về</string>

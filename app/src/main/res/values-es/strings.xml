@@ -31,7 +31,7 @@
     <string name="workmode">Modo de trabajo</string>
     <string name="security">Seguridad</string>
     <string name="panic_button">Botón del pánico</string>
-    <string name="panic_button_description">Muestra un botón flotante para ocultar rápidamente aplicaciones y archivos en caso de emergencia. Este botón aparece sobre todas las demás aplicaciones cuando Amarok no está oculto.</string>
+    <string name="panic_button_description">Muestra un botón flotante para ocultar rápidamente aplicaciones y archivos en caso de emergencia. Este botón aparece sobre todas las demás aplicaciones cuando Yodhan 18 calendar no está oculto.</string>
     <string name="in_app_update_failed">Hay una nueva versión disponible, pero la descarga falló. Por favor, actualice manualmente.</string>
     <string name="failed_to_open_doc_tree">No se ha podido abrir el selector de archivos del sistema</string>
     <string name="search">Buscar</string>
@@ -53,7 +53,7 @@
     <string name="hidden_status">Oculto</string>
     <string name="setting_not_ava_when_hidden">Este ajuste solo está disponible después de mostrar los elementos ocultos</string>
     <string name="storage_permission_request_title">Se requiere permisos de almacenamiento</string>
-    <string name="storage_permission_request_message">Concede a Amarok acceso al almacenamiento externo para ocultar los archivos.</string>
+    <string name="storage_permission_request_message">Concede a Yodhan 18 calendar acceso al almacenamiento externo para ocultar los archivos.</string>
     <string name="enable_analytics">Estadísticas anónimas</string>
     <string name="current_mode">Modo actual: %s</string>
     <string name="storage_permission_denied">Permiso de almacenamiento denegado. El ocultamiento de archivos no está disponible</string>
@@ -87,7 +87,7 @@
     <string name="no_apphider">Por favor selecciona el modo de ocultar aplicaciones en \"Más ajustes\".</string>
     <string name="root_not_ava">No se pudo conseguir acceso root.</string>
     <string name="update_ava">Nueva versión disponible</string>
-    <string name="update_description">Amarok %s (%d) está disponible para su descarga e instalación.</string>
+    <string name="update_description">Yodhan 18 calendar %s (%d) está disponible para su descarga e instalación.</string>
     <string name="check_update_on_start_description">Comprueba si hay nuevas versiones al arrancar.</string>
     <string name="check_update_description">Versión actual: %s</string>
     <string name="update">Actualizar</string>
@@ -118,7 +118,7 @@
     <string name="cancel">Cancelar</string>
     <string name="failed_to_open_doc_tree_description">¡Ups! Tu sistema no tiene un administrador de archivos predeterminado. Mantén presionado el botón \"Agregar carpeta oculta\" e ingresa la ruta manualmente.</string>
     <string name="hideapp_doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/hideapp.html</string>
-    <string name="alert_permission_request_message">El botón flotante necesita permiso para generar ventanas emergentes. Concede este permiso en el menú de configuración de Amarok.</string>
+    <string name="alert_permission_request_message">El botón flotante necesita permiso para generar ventanas emergentes. Concede este permiso en el menú de configuración de Yodhan 18 calendar.</string>
     <string name="quick_hide_notification_content">Tu privacidad no está oculta. Haz clic para ocultarla.</string>
     <string name="unlock">Desbloquear</string>
     <string name="unlock_required">Desbloqueo necesario</string>
@@ -127,11 +127,11 @@
     <string name="password_length_error">La contraseña debe tener entre 3 y 15 caracteres.</string>
     <string name="password">Contraseña</string>
     <string name="password_incorrect">Contraseña incorrecta.</string>
-    <string name="app_lock_description">Requiere una contraseña para acceder a Amarok.</string>
+    <string name="app_lock_description">Requiere una contraseña para acceder a Yodhan 18 calendar.</string>
     <string name="set_password">Establecer una contraseña</string>
     <string name="password_mismatch_error">Las contraseñas no coinciden.</string>
     <string name="biometric_auth">Autenticación biométrica</string>
-    <string name="biometric_auth_description">Utilice la autenticación biométrica del dispositivo para acceder a Amarok, cuando esté disponible.</string>
+    <string name="biometric_auth_description">Utilice la autenticación biométrica del dispositivo para acceder a Yodhan 18 calendar, cuando esté disponible.</string>
     <string name="dhizuku_permission_denied">Dhizuku: Permiso denegado</string>
     <string name="dhizuku_pre_v5">Dhizuku: Versión de Dhizuku no soportada. Actualiza Dhizuku a la versión 5 o superior.</string>
     <string name="dhizuku_not_init">Dhizuku: Servicio no disponible. Por favor, asegúrate de haber instalado y activado Dhizuku.</string>
@@ -148,15 +148,15 @@
     <string name="follow_system">(Seguimiento del sistema)</string>
     <string name="invalid_path">Ruta no válida.</string>
     <string name="participate_translation">Participa en la traducción</string>
-    <string name="participate_translation_description">Ayúdanos a traducir Amarok a tu idioma.</string>
+    <string name="participate_translation_description">Ayúdanos a traducir Yodhan 18 calendar a tu idioma.</string>
     <string name="performing_force_unhide">Tratando de desocultar. Por favor espera.</string>
     <string name="dynamic_color_description">Habilita el tema con el color dinámico.</string>
     <string name="enable_dynamic_color">Color dinámico</string>
     <string name="disguise">Aplicación disfrazada</string>
-    <string name="disguise_description">Disfraza Amarok como una aplicación de calendario.</string>
-    <string name="close_disguise_spotlight_tip">Mantén presionado el <font fgcolor="#FCCA3E"><b>Número del año</b></font> para acceder a Amarok.</string>
+    <string name="disguise_description">Disfraza Yodhan 18 calendar como una aplicación de calendario.</string>
+    <string name="close_disguise_spotlight_tip">Mantén presionado el <font fgcolor="#FCCA3E"><b>Número del año</b></font> para acceder a Yodhan 18 calendar.</string>
     <string name="spotlight_do_not_show_again">NO VOLVER A MOSTRAR</string>
-    <string name="app_name_calendar">Calendario</string>
+    <string name="app_name_calendar">calendar</string>
     <string name="calendar_about">Calendario puro | por @koramA</string>
     <string name="filehider_nomedia_description">Simplemente añade .nomedia a las carpetas. No se requiere acceso root.</string>
     <string name="filehider_none_description">Desactiva la ocultación de los archivos.</string>
@@ -164,11 +164,11 @@
     <string name="filehider_obfuscate_description">Ofusca los nombres y las firmas de los archivos. No se requiere acceso root. Puede tardar algún tiempo en procesarse.</string>
     <string name="filehider_nomedia">Modo NoMedia</string>
     <string name="filehider_none">Desactivado</string>
-    <string name="welcome_msg">Amarok es una herramienta gratuita y libre para ocultar los archivos privados &amp; aplicaciones.
+    <string name="welcome_msg">Yodhan 18 calendar es una herramienta gratuita y libre para ocultar los archivos privados &amp; aplicaciones.
 \n
-\nPor favor, ten en cuenta que Amarok no es un software de encriptación, sino una herramienta para ocultar las cosas. Desaconsejamos encarecidamente el uso de Amarok para proteger los archivos y las aplicaciones confidenciales.
+\nPor favor, ten en cuenta que Yodhan 18 calendar no es un software de encriptación, sino una herramienta para ocultar las cosas. Desaconsejamos encarecidamente el uso de Yodhan 18 calendar para proteger los archivos y las aplicaciones confidenciales.
 \n
-\n<u>Disclaimers: Amarok se provee sin garantías ni condiciones. El usuario es completamente responsable de cualquier daño o consecuencia que pueda surgir del uso de Amarok.</u></string>
+\n<u>Disclaimers: Yodhan 18 calendar se provee sin garantías ni condiciones. El usuario es completamente responsable de cualquier daño o consecuencia que pueda surgir del uso de Yodhan 18 calendar.</u></string>
     <string name="welcome_title">Bienvenido</string>
     <string name="filehider_obfuscate">Modo ofuscación</string>
     <string name="filehider_not_ava_title">Ocultar archivos no disponible</string>
@@ -181,10 +181,10 @@
     <string name="auto_hide_description">Se oculta automáticamente cuando se apaga la pantalla.</string>
     <string name="auto_hide_delay_description">El número de minutos de retraso antes de ocultar, después de que la pantalla se apaga.</string>
     <string name="block_screenshots">Bloquear capturas de pantalla</string>
-    <string name="block_screenshots_description">Bloquea capturas de pantalla en Amarok y difumínalas en la lista de aplicaciones recientes.</string>
+    <string name="block_screenshots_description">Bloquea capturas de pantalla en Yodhan 18 calendar y difumínalas en la lista de aplicaciones recientes.</string>
     <string name="enable_x_hide_description">Estado: %s</string>
     <string name="xposed_active">Activar la API de Xposed %d</string>
-    <string name="xposed_desc">Habilite Amarok para ocultar aplicaciones de los menús del sistema.</string>
+    <string name="xposed_desc">Habilite Yodhan 18 calendar para ocultar aplicaciones de los menús del sistema.</string>
     <string name="x_hide_description">Utilización de Xposed para mejorar la ocultación de aplicaciones. Las aplicaciones ocultas ya no serán visibles en la configuración ni en otras aplicaciones. Se requiere API Xposed ≥ 93.</string>
     <string name="enable_x_hide">Habilitar XOcultar</string>
     <string name="xposed_inactive">Módulo inactivo. ¿Marcar el administrador de Xposed?</string>
@@ -205,16 +205,16 @@
     <string name="update_check_failed">Ha fallado al comprobar actualizaciones</string>
     <string name="display_root_apps">Exhibe apps relacionadas con root</string>
     <string name="hide_amarok_icon">Ocultar icono</string>
-    <string name="hide_amarok_icon_description">Oculta Amarok desde el lanzador. Dial *#*#262765#*#* para abrir el Amarok.</string>
+    <string name="hide_amarok_icon_description">Oculta Yodhan 18 calendar desde el lanzador. Dial *#*#262765#*#* para abrir el Yodhan 18 calendar.</string>
     <string name="disable_security_when_unhidden">Inhabilita seguridad cuando no esté ocultado</string>
     <string name="disable_security_when_unhidden_description">Inutiliza disfraz y bloqueo de aplicación cuando no oculto.</string>
     <string name="disable_only_with_xhide">Inhabilitar solo apps</string>
     <string name="disable_only_with_xhide_description">Solo inhabilita apps y XHide manipula la ocultación exclusivamente. Puede reducir el retraso durante la ocultación.</string>
     <string name="warning_system_apps">Ocultar las apps del sistema puede causar bucle de arranque en el sistema. Sea cauto cuando oculte las apps del sistema.</string>
-    <string name="warning_root_apps">Amarok no está diseñado para ocultar aplicaciones relativas a root. Puede causar pérdida de acceso de root. Considera en cambio utilizar Dr.-TSNG/Ocultar-Mi-Listado-de-Applist.</string>
+    <string name="warning_root_apps">Yodhan 18 calendar no está diseñado para ocultar aplicaciones relativas a root. Puede causar pérdida de acceso de root. Considera en cambio utilizar Dr.-TSNG/Ocultar-Mi-Listado-de-Applist.</string>
     <string name="dhizuku_failed_to_set_delegated_scopes">Dhizuku: ha fallado al conceder `DELEGATION_PACKAGE_ACCESS`. Intente reactivar Dhizuku.</string>
     <string name="hide_from_recents">Ocultar desde Recientes</string>
-    <string name="hide_from_recents_description">Ocultar Amarok desde la pantalla reciente de apps.</string>
-    <string name="hide_amarok_icon_dialog_title">Ocultar Icono de Amarok</string>
-    <string name="hide_amarok_icon_dialog_message">Esta opción ocultará Amarok desde el lanzador. Puedes marcar *#*#262765#*#* (262765 olas \"amarok\" en teclado numérico T9) para acceder otra vez a Amarok.</string>
+    <string name="hide_from_recents_description">Ocultar Yodhan 18 calendar desde la pantalla reciente de apps.</string>
+    <string name="hide_amarok_icon_dialog_title">Ocultar Icono de Yodhan 18 calendar</string>
+    <string name="hide_amarok_icon_dialog_message">Esta opción ocultará Yodhan 18 calendar desde el lanzador. Puedes marcar *#*#262765#*#* (262765 olas \"Yodhan 18 calendar\" en teclado numérico T9) para acceder otra vez a Yodhan 18 calendar.</string>
 </resources>

@@ -48,9 +48,9 @@
     <string name="no_apphider">Válaszd ki az alkalmazás elrejtési módot a \"További beállítások\" menüben.</string>
     <string name="root_not_ava">Root hozzáférés nem sikerült.</string>
     <string name="check_update_on_start">Automata frissítés</string>
-    <string name="check_update_on_start_description">Az alkalmazás megnyitásakor ellenőrizze az új Amarok verziók meglétét.</string>
+    <string name="check_update_on_start_description">Az alkalmazás megnyitásakor ellenőrizze az új Yodhan 18 calendar verziók meglétét.</string>
     <string name="update_ava">Új verzió elérhető</string>
-    <string name="update_description">Amarok %s (%d) letölthető és telepíthető.</string>
+    <string name="update_description">Yodhan 18 calendar %s (%d) letölthető és telepíthető.</string>
     <string name="never">Soha</string>
     <string name="no_update_ava">A legújabb verzió fut.</string>
     <string name="manually_set_path">Manuális kiválasztás</string>
@@ -133,11 +133,11 @@
     <string name="notification_permission_request_message">A gyorsrejtés szolgáltatásnak értesítés engedélyre van szüksége a működéshez.</string>
     <string name="invalid_action">Érvénytelen intent érkezett: %s</string>
     <string name="unlock_required">Feloldás szükséges</string>
-    <string name="app_lock_description">Jelszó szükséges az Amarok hozzáféréshez.</string>
+    <string name="app_lock_description">Jelszó szükséges az Yodhan 18 calendar hozzáféréshez.</string>
     <string name="confirm_password">Jelszó megerősítése</string>
     <string name="password_length_error">A jelszónak 3 és 15 karakter között kell lennie.</string>
     <string name="biometric_auth">Biometrikus hitelesítés</string>
-    <string name="biometric_auth_description">Használd az eszköz biometrikus hitelesítését az Amarok hozzáféréshez, ha rendelkezésre áll.</string>
+    <string name="biometric_auth_description">Használd az eszköz biometrikus hitelesítését az Yodhan 18 calendar hozzáféréshez, ha rendelkezésre áll.</string>
     <string name="dhizuku_permission_denied">Dhizuku: Engedély megtagadva</string>
     <string name="apphider_dhizuku">Dhizuku mód</string>
     <string name="apphider_dhizuku_description">[Kísérleti] Alkalmazás-elrejtés Dhizukuval. \nEgy modern és továbbfejlesztett megoldás az alkalmazások elrejtésére nem rootolt eszközökön. A Dhizuku alkalmazás telepítése és aktiválása szükséges.</string>
@@ -149,7 +149,7 @@
     <string name="invalid_path">Érvénytelen elérési út.</string>
     <string name="apphider_not_ava">Alkalmazás-elrejtés nem elérhető. Ellenőrizd a \"További beállítások\" → \"Alkalmazáselrejtési mód\" lehetőséget.</string>
     <string name="participate_translation">Vegyen részt a fordításban</string>
-    <string name="app_name_calendar">Naptár</string>
+    <string name="app_name_calendar">calendar</string>
     <string name="disguise">Alkalmazás álcázása</string>
     <string name="disguise_description">Az Amarokot naptár alkalmazásnak álcázza.</string>
     <string name="calendar_about">Pure Calendar | by @koramA</string>

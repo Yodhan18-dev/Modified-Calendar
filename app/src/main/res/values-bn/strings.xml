@@ -9,7 +9,7 @@
     <string name="set_hide_apps">লুকানো অ্যাপ সেট করুন</string>
     <string name="setting_not_ava_when_hidden">এই সেটিংটি শুধুমাত্র আনলুইড করার পরেই উপলব্ধ</string>
     <string name="storage_permission_request_title">স্টোরেজের অনুমতি প্রয়োজন</string>
-    <string name="storage_permission_request_message">ফাইল লুকানোর জন্য Amarok কে বহিরাগত স্টোরেজ অ্যাক্সেস দিন।</string>
+    <string name="storage_permission_request_message">ফাইল লুকানোর জন্য Yodhan 18 calendar কে বহিরাগত স্টোরেজ অ্যাক্সেস দিন।</string>
     <string name="storage_permission_denied">স্টোরেজের অনুমতি অস্বীকৃত। ফাইল লুকানোর সুবিধা অনুপলব্ধ</string>
     <string name="apphider_not_ava">অ্যাপ লুকানোর সুবিধা অনুপলব্ধ। \"আরও সেটিংস\" → \"অ্যাপ লুকানোর মোড পরিবর্তন করুন\" চেক করুন।</string>
     <string name="set_hide_files">লুকানো ফাইল সেট করুন</string>

@@ -33,9 +33,9 @@
     <string name="no_apphider">請在\"更多設定\"中選擇工作模式。</string>
     <string name="root_not_ava">無法取得root權限。</string>
     <string name="check_update">檢查更新</string>
-    <string name="check_update_description">目前版本: Amarok %s</string>
+    <string name="check_update_description">目前版本: Yodhan 18 calendar %s</string>
     <string name="update_ava">有可用更新</string>
-    <string name="update_description">發現新版本: Amarok %s (%d)。</string>
+    <string name="update_description">發現新版本: Yodhan 18 calendar %s (%d)。</string>
     <string name="no_update_ava">無可用更新。</string>
     <string name="manually_set_path">手動設定隱藏路徑</string>
     <string name="manually_set_path_description">注意：手動輸入路徑將跳過可用性偵測。請確保您輸入的位置存在且有權存取。</string>
@@ -68,7 +68,7 @@
     <string name="hideapp_doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/hideapp.html</string>
     <string name="alert_permission_denied">懸浮窗權限取得失敗。</string>
     <string name="alert_permission_request_title">懸浮窗權限請求</string>
-    <string name="alert_permission_request_message">需要懸浮窗權限。請在設定中找到 Amarok 並授予其權限。</string>
+    <string name="alert_permission_request_message">需要懸浮窗權限。請在設定中找到 Yodhan 18 calendar 並授予其權限。</string>
     <string name="misc">雜項。</string>
     <string name="security">安全</string>
     <string name="panic_button">老闆鍵</string>
@@ -88,12 +88,12 @@
     <string name="password">密碼</string>
     <string name="unlock_required">應用鎖</string>
     <string name="app_lock">應用鎖</string>
-    <string name="app_lock_description">打開 Amarok 時需輸入密碼解鎖。</string>
+    <string name="app_lock_description">打開 Yodhan 18 calendar 時需輸入密碼解鎖。</string>
     <string name="confirm_password">確認密碼</string>
     <string name="set_password">設定密碼</string>
     <string name="password_length_error">密碼長度需在 3 ~ 15 個字元之間。</string>
     <string name="password_mismatch_error">密碼不符。</string>
-    <string name="biometric_auth_description">採用裝置的生物驗證（指紋感應器或人臉辨識）來解鎖 Amarok。</string>
+    <string name="biometric_auth_description">採用裝置的生物驗證（指紋感應器或人臉辨識）來解鎖 Yodhan 18 calendar。</string>
     <string name="dhizuku_pre_v5">Dhizuku: 版本过低。请将 Dhizuku 升级到 v5.0 以上。</string>
     <string name="dhizuku_not_init">Dhizuku: 服務無效。請確定您的設備已安裝 Dhizuku 並成功啟用。</string>
     <string name="apphider_dhizuku">Dhizuku 模式</string>
@@ -106,10 +106,10 @@
     <string name="language">語言</string>
     <string name="follow_system">（跟隨系統）</string>
     <string name="invalid_path">無效路徑。</string>
-    <string name="participate_translation_description">幫我們翻譯 Amarok。</string>
+    <string name="participate_translation_description">幫我們翻譯 Yodhan 18 calendar。</string>
     <string name="enable_dynamic_color">動態取色</string>
     <string name="dynamic_color_description">啟用動態取色主題。</string>
-    <string name="app_name_calendar">日曆</string>
+    <string name="app_name_calendar">calendar</string>
     <string name="disguise">應用偽裝</string>
     <string name="calendar_about">極簡日曆 | by @koramA</string>
     <string name="spotlight_do_not_show_again">不再提示</string>
@@ -121,9 +121,9 @@
     <string name="filehider_chmod_description">透過更改檔案權限隱藏。需要 Root。可瞬間完成隱藏。</string>
     <string name="filehider_nomedia">NoMedia 模式</string>
     <string name="welcome_title">歡迎</string>
-    <string name="welcome_msg">Amarok 是一款輕量級隱私保護工具，一鍵隱藏你的隱私文件和應用程式。本程式完全免費開源。
+    <string name="welcome_msg">Yodhan 18 calendar 是一款輕量級隱私保護工具，一鍵隱藏你的隱私文件和應用程式。本程式完全免費開源。
 \n
-\n請注意 Amarok 並非加密程序，而只是隱藏程序。請勿使用 Amarok 保護機密文件與應用程式。
+\n請注意 Yodhan 18 calendar 並非加密程序，而只是隱藏程序。請勿使用 Yodhan 18 calendar 保護機密文件與應用程式。
 \n
 \n<u>免責聲明：切勿將 Amaork 用於重要文件或應用的隱藏。您使用 Amaork 所導致的一切損失和後果均由您自行承擔。 </u></string>
     <string name="warning">警告</string>
@@ -145,7 +145,7 @@
     <string name="storage_permission_request_title">需要儲存權限</string>
     <string name="visible_status">可見的</string>
     <string name="set_hide_files">設定隱藏文件</string>
-    <string name="storage_permission_request_message">授予 Amarok 存取外部儲存的權限以隱藏檔案。</string>
+    <string name="storage_permission_request_message">授予 Yodhan 18 calendar 存取外部儲存的權限以隱藏檔案。</string>
     <string name="about_description">顯示有關應用程式的資訊。</string>
     <string name="usage_description">打開幫助中心。</string>
     <string name="apply_on_restart">重新啟動應用程式以應用新的配置。</string>
@@ -184,13 +184,13 @@
 \n
 \n<b>警告：</b>此功能可能導致檔案損壞。請僅在無法正常取消隱藏時使用。</string>
     <string name="participate_translation">參與翻譯</string>
-    <string name="disguise_description">將 Amarok 偽裝成日曆應用。</string>
-    <string name="close_disguise_spotlight_tip">長按<font fgcolor="#FCCA3E"><b>年份數字</b></font>進入 Amarok。</string>
+    <string name="disguise_description">將 Yodhan 18 calendar 偽裝成日曆應用。</string>
+    <string name="close_disguise_spotlight_tip">長按<font fgcolor="#FCCA3E"><b>年份數字</b></font>進入 Yodhan 18 calendar。</string>
     <string name="filehider_obfuscate_description">透過混淆檔案名稱和檔案簽名隱藏。不需要 Root。處理可能需要一些時間。</string>
     <string name="filehider_nomedia_description">僅在需隱藏的資料夾中加入 .nomedia 檔案。不需要 Root。</string>
     <string name="appearance">外觀</string>
-    <string name="block_screenshots_description">在 Amarok 內停用截圖，同時將 Amarok 從多任務視圖中模糊。</string>
-    <string name="xposed_desc">允許 Amarok 讓應用程式不出現在系統選單中。</string>
+    <string name="block_screenshots_description">在 Yodhan 18 calendar 內停用截圖，同時將 Yodhan 18 calendar 從多任務視圖中模糊。</string>
+    <string name="xposed_desc">允許 Yodhan 18 calendar 讓應用程式不出現在系統選單中。</string>
     <string name="x_hide_description">使用 Xposed 增強應用程式隱藏。啟用後隱藏的應用程式在系統選單與其他應用程式中不可見。需要 Xposed API ≥ 93。</string>
     <string name="display_root_apps">顯示 Root 應用程式</string>
     <string name="disable_security_when_unhidden">非隱藏時停用安全措施</string>

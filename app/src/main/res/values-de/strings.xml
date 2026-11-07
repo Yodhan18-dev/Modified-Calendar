@@ -12,12 +12,12 @@
     <string name="ok">OK</string>
     <string name="set_hide_apps">Versteckte Apps einstellen</string>
     <string name="storage_permission_request_title">Speichererlaubnis erforderlich</string>
-    <string name="storage_permission_request_message">Gewähre Amarok Zugriff auf externen Speicher, um Dateien zu verstecken.</string>
+    <string name="storage_permission_request_message">Gewähre Yodhan 18 calendar Zugriff auf externen Speicher, um Dateien zu verstecken.</string>
     <string name="set_hide_files">Versteckte Dateien einstellen</string>
     <string name="usage_description">Offene Verwendung.</string>
     <string name="apphider_not_ava">AppHider nicht verfügbar. Überprüfen Sie WeitereEinstellungen -&gt; AppHider wechseln.</string>
     <string name="enable_analytics">Analytik einschalten</string>
-    <string name="analytics_description">Erlauben Sie Amarok, Protokolle für die Analyse zu senden.</string>
+    <string name="analytics_description">Erlauben Sie Yodhan 18 calendar, Protokolle für die Analyse zu senden.</string>
     <string name="about_description">Über anzeigen.</string>
     <string name="usage">Verwendung</string>
     <string name="switch_app_hider">AppHider Arbeitsmodus wechseln</string>
@@ -47,10 +47,10 @@
     <string name="dsm_permission_denied">DSM: Erlaubnis verweigert</string>
     <string name="remove_hide_path">Pfad verbergen entfernen\?</string>
     <string name="root_not_ava">Root-Zugriff nicht möglich.</string>
-    <string name="check_update_on_start_description">Prüfen Sie, ob es beim Start von Amarok Aktualisierungen gibt.</string>
+    <string name="check_update_on_start_description">Prüfen Sie, ob es beim Start von Yodhan 18 calendar Aktualisierungen gibt.</string>
     <string name="check_update">Aktualisierung überprüfen</string>
     <string name="check_update_description">Aktuelle Version: %s</string>
-    <string name="update_description">Amarok %s (%d) ist zum Herunterladen und Installieren verfügbar.</string>
+    <string name="update_description">Yodhan 18 calendar %s (%d) ist zum Herunterladen und Installieren verfügbar.</string>
     <string name="manually_set_path_description">Achtung! Der manuell eingegebene Pfad **überspringt** die Validierung. Bitte stellen Sie sicher, dass der Pfad gültig ist.</string>
     <string name="apphider_none_description">Deaktivieren Sie die HideApp-Funktion.</string>
     <string name="update_ava">Neue Version verfügbar</string>
@@ -103,15 +103,15 @@
     <string name="hideapp_doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/hideapp.html</string>
     <string name="alert_permission_denied">Display-over-apps-Erlaubnis verweigert.</string>
     <string name="alert_permission_request_title">Erlaubnis für Popup-Fenster erforderlich</string>
-    <string name="alert_permission_request_message">Der Schwebe-Button benötigt die Berechtigung \"Popout-Fenster\", um zu funktionieren. Bitte finden Sie Amarok im Einstellungsmenü und erteilen Sie die Erlaubnis.</string>
+    <string name="alert_permission_request_message">Der Schwebe-Button benötigt die Berechtigung \"Popout-Fenster\", um zu funktionieren. Bitte finden Sie Yodhan 18 calendar im Einstellungsmenü und erteilen Sie die Erlaubnis.</string>
     <string name="failed_to_open_doc_tree_description">Huch! Es scheint, dass Ihr System keinen Standard-Dateimanager hat? Bitte drücken Sie lange auf die Schaltfläche \"Versteckter-Ordner hinzufügen\" und legen Sie den Pfad manuell fest.</string>
     <string name="notification">Benachrichtigung</string>
     <string name="performing_force_unhide">Erzwinge das Einblenden. Bleiben Sie ruhig.</string>
     <string name="filter">Filter</string>
     <string name="display_system_apps">System-Apps anzeigen</string>
     <string name="biometric_auth">Biometrische Entsperrung</string>
-    <string name="app_lock_description">Passwort notwendig um Amarok zu öffen.</string>
-    <string name="biometric_auth_description">Biometrische Funktionen des Gerätes verwenden um Amarok zu öffnen, falls verfügbar.</string>
+    <string name="app_lock_description">Passwort notwendig um Yodhan 18 calendar zu öffen.</string>
+    <string name="biometric_auth_description">Biometrische Funktionen des Gerätes verwenden um Yodhan 18 calendar zu öffnen, falls verfügbar.</string>
     <string name="quick_hide_notification_title">Privatsphäre nicht versteckt</string>
     <string name="quick_hide_notification_content">Ihre Privatsphäre ist nicht geschützt. Zum Verstecken drücken.</string>
     <string name="notification_channel_name">Dienst für schnelles Verstecken</string>
@@ -119,7 +119,7 @@
     <string name="invalid_path">Pfad ungültig.</string>
     <string name="dhizuku_permission_denied">Dhizuku: Berechtigung abgelehnt</string>
     <string name="participate_translation">Helfen Sie bei der Übersetzung</string>
-    <string name="participate_translation_description">Helfen Sie uns, Amarok in Ihre Sprache zu übersetzen.</string>
+    <string name="participate_translation_description">Helfen Sie uns, Yodhan 18 calendar in Ihre Sprache zu übersetzen.</string>
     <string name="quick_hide">Schnelles Verstecken</string>
     <string name="search">Suche</string>
     <string name="notification_permission_request_title">Berechtigung für Benachrichtigungen erforderlich</string>
@@ -143,31 +143,31 @@
     <string name="dynamic_color_description">Dynamisches Farbthema einschalten.</string>
     <string name="follow_system">(An das System anpassen)</string>
     <string name="block_screenshots">Screenshots blockieren</string>
-    <string name="block_screenshots_description">Screenshots in Amarok blockieren und in der Liste der letzten Anwendungen verbergen.</string>
+    <string name="block_screenshots_description">Screenshots in Yodhan 18 calendar blockieren und in der Liste der letzten Anwendungen verbergen.</string>
     <string name="dhizuku_pre_v5">Dhizuku: Die Dhizuku-Version wird nicht unterstützt. Bitte aktualisieren Sie Dhizuku auf Version 5 oder höher.</string>
     <string name="apphider_dhizuku">Dhizuku-Modus</string>
     <string name="invalid_action">Ungültigen Intent erhalten: %s</string>
     <string name="warning">WARNUNG</string>
     <string name="auto_hide">Automatisches Verstecken</string>
     <string name="apphider_dhizuku_description">[Experimentell] App-Verstecken mit Dhizuku. \nEine moderne und verbesserte Lösung zum Verstecken von Apps auf nicht gerooteten Geräten. Die Installation und Aktivierung der Dhizuku-App sind erforderlich.</string>
-    <string name="app_name_calendar">Kalender</string>
+    <string name="app_name_calendar">calendar</string>
     <string name="disguise">App tarnen</string>
-    <string name="disguise_description">Tarnt Amarok als Kalender.</string>
+    <string name="disguise_description">Tarnt Yodhan 18 calendar als Kalender.</string>
     <string name="quick_hide_notification_description">Zeige dauerhafte Benachrichtigung um Benutzer zu informieren wenn es nicht versteckt ist.</string>
     <string name="calendar_about">Pure Calendar | von @koramA</string>
     <string name="dhizuku_not_init">Dhizuku: Der Dienst ist nicht verfügbar. Bitte stellen Sie sicher, dass Sie Dhizuku installiert und aktiviert haben.</string>
     <string name="filehider_obfuscate_description">Verschleierung von Dateinamen und Dateisignaturen. Es ist kein Root-Zugriff erforderlich. Die Verarbeitung kann einige Zeit in Anspruch nehmen.</string>
-    <string name="welcome_msg">Amarok ist ein kostenloses und freies Tool zum Verstecken privater Dateien &amp; Anwendungen.
+    <string name="welcome_msg">Yodhan 18 calendar ist ein kostenloses und freies Tool zum Verstecken privater Dateien &amp; Anwendungen.
 \n
-\nBitte beachten Sie, dass Amarok keine Verschlüsselungssoftware ist, sondern eher ein Werkzeug zum Verstecken von Dingen. Wir raten dringend davon ab, Amarok zum Schutz vertraulicher Dateien und Anwendungen zu verwenden.
+\nBitte beachten Sie, dass Yodhan 18 calendar keine Verschlüsselungssoftware ist, sondern eher ein Werkzeug zum Verstecken von Dingen. Wir raten dringend davon ab, Yodhan 18 calendar zum Schutz vertraulicher Dateien und Anwendungen zu verwenden.
 \n
-\n<u>Haftungsausschlüsse: Amarok wird ohne jegliche Garantien oder Bedingungen zur Verfügung gestellt. Der Benutzer trägt die volle Verantwortung für jegliche Schäden oder Konsequenzen, die aus der Verwendung von Amarok entstehen können.</u></string>
+\n<u>Haftungsausschlüsse: Yodhan 18 calendar wird ohne jegliche Garantien oder Bedingungen zur Verfügung gestellt. Der Benutzer trägt die volle Verantwortung für jegliche Schäden oder Konsequenzen, die aus der Verwendung von Yodhan 18 calendar entstehen können.</u></string>
     <string name="chmod_samsung_warning"><b><font fgcolor="#ff0000">Einige Samsung-Benutzer haben berichtet, dass die Verwendung von ChmodFileHider dazu führt, dass ihre Geräte nicht mehr booten.</font> Weitere Informationen finden Sie in GitHub issue #105. Die Verwendung erfolgt auf eigene Gefahr.</b></string>
     <string name="appearance">Aussehen</string>
     <string name="auto_hide_description">Automatisches Ausblenden, nachdem der Bildschirm ausgeschaltet wurde.</string>
     <string name="auto_hide_delay">Verzögerung für automatisches Ausblenden</string>
     <string name="auto_hide_delay_description">Die Anzahl der Minuten, die das Ausblenden nach dem Ausschalten des Bildschirms verzögert werden soll.</string>
-    <string name="close_disguise_spotlight_tip"><font fgcolor="#FCCA3E"><b>Jahreszahl</b></font> lange drücken, um auf Amarok zuzugreifen.</string>
+    <string name="close_disguise_spotlight_tip"><font fgcolor="#FCCA3E"><b>Jahreszahl</b></font> lange drücken, um auf Yodhan 18 calendar zuzugreifen.</string>
     <string name="spotlight_do_not_show_again">NICHT MEHR ANZEIGEN</string>
     <string name="filehider_not_ava_title">Dateiausblendung nicht möglich</string>
     <string name="filehider_none">Deaktiviert</string>
@@ -180,7 +180,7 @@
     <string name="welcome_title">Willkommen</string>
     <string name="enable_x_hide">XHide aktivieren</string>
     <string name="enable_x_hide_description">Status: %s</string>
-    <string name="xposed_desc">Amarok aktivieren, um Anwendungen aus den Systemmenüs auszublenden.</string>
+    <string name="xposed_desc">Yodhan 18 calendar aktivieren, um Anwendungen aus den Systemmenüs auszublenden.</string>
     <string name="x_hide_description">Verwendung des Xposed-Moduls zur Verbesserung des Ausblendens von Apps. Versteckte Apps sind nicht mehr in den Einstellungen oder anderen Apps sichtbar. Xposed API ≥ 93 Erforderlich.</string>
     <string name="xposed_active">Aktiv, Xposed API %d</string>
     <string name="xposed_inactive">Modul inaktiv. Xposed Manager überprüfen?</string>

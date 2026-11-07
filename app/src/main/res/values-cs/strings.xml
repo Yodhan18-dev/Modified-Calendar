@@ -44,11 +44,11 @@
     <string name="no_apphider">Vyberte režim skrývání aplikací v „Dalších nastaveních“.</string>
     <string name="root_not_ava">Nepodařilo se získat přístup k rootu.</string>
     <string name="check_update_on_start">Automatické aktualizace</string>
-    <string name="check_update_on_start_description">Zkontrolovat nové verze Amarok při otevření aplikace.</string>
+    <string name="check_update_on_start_description">Zkontrolovat nové verze Yodhan 18 calendar při otevření aplikace.</string>
     <string name="check_update">Zkontrolovat aktualizaci</string>
     <string name="check_update_description">Aktuální verze: %s</string>
     <string name="update_ava">Novější verze dostupná</string>
-    <string name="update_description">Amarok %s (%d) je k dispozici ke stažení a instalaci.</string>
+    <string name="update_description">Yodhan 18 calendar %s (%d) je k dispozici ke stažení a instalaci.</string>
     <string name="update">Aktualizace</string>
     <string name="never">Nikdy</string>
     <string name="manually_set_path">Vyberte manuálně</string>

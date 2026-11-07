@@ -18,7 +18,7 @@
     <string name="show_debug_info">Info debug</string>
     <string name="apphider_not_ava">Penyembunyian aplikasi tidak tersedia. Cek \"Pengaturan Lainnya\" → \"Ganti mode penyembunyian aplikasi\".</string>
     <string name="storage_permission_denied">Izin penyimpanan ditolak. Penyembunyian file tidak tersedia</string>
-    <string name="storage_permission_request_message">Berikan Amarok akses ke penyimpanan eksternal untuk menyembunyikan file.</string>
+    <string name="storage_permission_request_message">Berikan Yodhan 18 calendar akses ke penyimpanan eksternal untuk menyembunyikan file.</string>
     <string name="hide_app_failed_admin_inactive">Tidak dapat menyembunyikan aplikasi: Penyedia DSM tidak aktif.</string>
     <string name="show_about">Tampilkan Tentang</string>
     <string name="root_not_ava">Tidak dapat memperoleh akses root.</string>
@@ -28,7 +28,7 @@
     <string name="set_hide_files">Atur File Tersembunyi</string>
     <string name="apply_on_restart">Mulai ulang aplikasi untuk menerapkan perubahan.</string>
     <string name="help">Bantuan</string>
-    <string name="check_update_on_start_description">Periksa versi Amarok baru saat membuka aplikasi.</string>
+    <string name="check_update_on_start_description">Periksa versi Yodhan 18 calendar baru saat membuka aplikasi.</string>
     <string name="analytics_description">Kirim laporan kerusakan sebagai anonim ke pengembang untuk analisis.</string>
     <string name="ok">Oke</string>
     <string name="setting_not_ava_when_hidden">Pengaturan ini hanya tersedia setelah tidak disembunyikan</string>
@@ -51,11 +51,11 @@
     <string name="remove_hide_path">Hapus folder tersembunyi?</string>
     <string name="remove_hide_path_description">Hapus folder \'%s\' dari daftar tersembunyi?</string>
     <string name="switch_app_hider">Ganti mode penyembunyian aplikasi</string>
-    <string name="update_description">Amarok %s (%d) tersedia untuk diunduh dan diinstal.</string>
+    <string name="update_description">Yodhan 18 calendar %s (%d) tersedia untuk diunduh dan diinstal.</string>
     <string name="invalid_dsm_provider">DSM: Penyedia DSM tidak valid. Sudahkah Anda memasang dan mengaktifkan penyedia DSM di perangkat Anda?</string>
     <string name="dhizuku_not_init">Dhizuku: Layanan tidak tersedia. Pastikan Anda telah menginstal dan mengaktifkan Dhizuku.</string>
     <string name="performing_force_unhide">Mengeksekusi mode \"Perlihatkan Secara Paksa\". Silahkan tunggu.</string>
-    <string name="app_name_calendar">Kalender</string>
+    <string name="app_name_calendar">calendar</string>
     <string name="obfuscate_filename_description">Membuat nama berkas human-unreadable. Fitur penyembunyian berkas dasar yang tidak dapat dinonaktifkan.</string>
     <string name="filehider_nomedia_description">Hanya tambahkan .nomedia ke dalam folder. Akses root tidak diperlukan.</string>
     <string name="quick_hide_notification_title">Privasi tidak tersembunyi</string>
@@ -64,7 +64,7 @@
     <string name="filter">Penyaring</string>
     <string name="notification_permission_denied">Izin notifikasi ditolak.</string>
     <string name="manually_set_path">Pilih secara manual</string>
-    <string name="biometric_auth_description">Gunakan autentikasi biometrik perangkat untuk mengakses Amarok, jika tersedia.</string>
+    <string name="biometric_auth_description">Gunakan autentikasi biometrik perangkat untuk mengakses Yodhan 18 calendar, jika tersedia.</string>
     <string name="shizuku_hidden_api_error">Tidak dapat menyembunyikan aplikasi: Tidak dapat mengakses API IPackageManager.</string>
     <string name="dynamic_color_description">Aktifkan tema warna dinamis.</string>
     <string name="warning">PERINGATAN</string>
@@ -76,14 +76,14 @@
     <string name="processing">Memproses…</string>
     <string name="obfuscate_file_header_description">Mengaburkan tanda tangan berkas di header berkas agar berkas tampak rusak. Mencegah berkas dibuka secara manual dengan \"Buka Dengan\", tetapi dapat memperlambat proses penyembunyian.</string>
     <string name="obfuscate_text_file">Mengaburkan file teks sepenuhnya</string>
-    <string name="app_lock_description">Perlu kata sandi untuk mengakses Amarok.</string>
+    <string name="app_lock_description">Perlu kata sandi untuk mengakses Yodhan 18 calendar.</string>
     <string name="filehider_chmod_description">Ubah izin berkas agar tidak dapat dibaca. Diperlukan akses root. Prosedur langsung.</string>
     <string name="dhizuku_permission_denied">Dhizuku: Izin ditolak</string>
     <string name="misc">Lain-lain.</string>
     <string name="common_error_doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/hideapp.html#common-errors</string>
-    <string name="close_disguise_spotlight_tip">Tekan lama <font fgcolor="#FCCA3E"><b>Angka Tahun</b></font>- untuk mengakses Amarok.</string>
+    <string name="close_disguise_spotlight_tip">Tekan lama <font fgcolor="#FCCA3E"><b>Angka Tahun</b></font>- untuk mengakses Yodhan 18 calendar.</string>
     <string name="shizuku_service_not_running">Shizuku: Layanan tidak berjalan.</string>
-    <string name="panic_button_description">Menampilkan tombol mengambang untuk menyembunyikan aplikasi dan file dengan cepat dalam keadaan darurat. Tombol ini muncul di atas semua aplikasi lain saat kondisi Amarok \"Terlihat\".</string>
+    <string name="panic_button_description">Menampilkan tombol mengambang untuk menyembunyikan aplikasi dan file dengan cepat dalam keadaan darurat. Tombol ini muncul di atas semua aplikasi lain saat kondisi Yodhan 18 calendar \"Terlihat\".</string>
     <string name="disguise">Penyamaran aplikasi</string>
     <string name="quick_hide">Sembunyi Cepat</string>
     <string name="apphider_none">Dimatikan</string>
@@ -116,7 +116,7 @@
     <string name="apphider_none_description">Nonaktifkan penyembunyian aplikasi.</string>
     <string name="filehider_none">Dinonaktifkan</string>
     <string name="spotlight_do_not_show_again">JANGAN TAMPILKAN LAGI</string>
-    <string name="welcome_msg">Amarok adalah alat gratis dan bebas untuk menyembunyikan file &amp; aplikasi pribadi.\n\nHarap dicatat bahwa Amarok bukanlah perangkat lunak enkripsi, melainkan alat penyembunyian. Kami sangat menyarankan untuk tidak menggunakan Amarok untuk melindungi file dan aplikasi rahasia dan/atau penting.\n\n<u>Pernyataan: Amarok disediakan tanpa jaminan atau ketentuan apa pun. Pengguna bertanggung jawab penuh atas segala kerugian atau konsekuensi yang mungkin timbul akibat penggunaan Amarok.</u></string>
+    <string name="welcome_msg">Yodhan 18 calendar adalah alat gratis dan bebas untuk menyembunyikan file &amp; aplikasi pribadi.\n\nHarap dicatat bahwa Yodhan 18 calendar bukanlah perangkat lunak enkripsi, melainkan alat penyembunyian. Kami sangat menyarankan untuk tidak menggunakan Yodhan 18 calendar untuk melindungi file dan aplikasi rahasia dan/atau penting.\n\n<u>Pernyataan: Yodhan 18 calendar disediakan tanpa jaminan atau ketentuan apa pun. Pengguna bertanggung jawab penuh atas segala kerugian atau konsekuensi yang mungkin timbul akibat penggunaan Yodhan 18 calendar.</u></string>
     <string name="shizuku_permission_denied">Shizuku: Izin ditolak</string>
     <string name="manually_set_path_description">Perhatian: Pastikan apa yang Anda pilih secara manual benar-benar ada, karena ini tidak divalidasi.</string>
     <string name="filename_and_header">Nama + Header file</string>
@@ -136,7 +136,7 @@
     <string name="doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/</string>
     <string name="password_incorrect">Kata sandi salah.</string>
     <string name="language">Bahasa</string>
-    <string name="alert_permission_request_message">Tombol mengambang memerlukan izin untuk memunculkan jendela pop-up. Harap berikan izin ini untuk Amarok di menu pengaturan.</string>
+    <string name="alert_permission_request_message">Tombol mengambang memerlukan izin untuk memunculkan jendela pop-up. Harap berikan izin ini untuk Yodhan 18 calendar di menu pengaturan.</string>
     <string name="search">Cari</string>
     <string name="failed_to_open_doc_tree_description">Ups! Sistem Anda tidak memiliki pengelola berkas bawaan. Tekan lama tombol \"Tambahkan Folder Tersembunyi\" dan masukkan jalur secara manual.</string>
     <string name="participate_translation">Berpartisipasi dalam penerjemahan</string>
@@ -147,10 +147,10 @@
     <string name="filehider_not_ava_title">Penyembunyian file tidak tersedia</string>
     <string name="never">Tidak pernah</string>
     <string name="in_app_update_failed">Versi baru tersedia, tetapi gagal diunduh. Harap perbarui secara manual.</string>
-    <string name="participate_translation_description">Bantu kami menerjemahkan Amarok ke dalam bahasamu.</string>
+    <string name="participate_translation_description">Bantu kami menerjemahkan Yodhan 18 calendar ke dalam bahasamu.</string>
     <string name="password_mismatch_error">Kata sandi tidak cocok.</string>
     <string name="apphider_not_ava_title">Penyembunyian aplikasi tidak aktif</string>
-    <string name="disguise_description">Samarkan Amarok sebagai aplikasi kalender.</string>
+    <string name="disguise_description">Samarkan Yodhan 18 calendar sebagai aplikasi kalender.</string>
     <string name="security">Keamanan</string>
     <string name="apphider_dsm">Mode DSM</string>
     <string name="app_lock">Kunci aplikasi</string>
@@ -165,13 +165,13 @@
     <string name="enable_x_hide_description">Status: %s</string>
     <string name="enable_x_hide">Aktifkan XHide</string>
     <string name="block_screenshots">Halangi tangkapan layar</string>
-    <string name="block_screenshots_description">Menghalagi penangkapan layar aplikasi Amarok dan mengaburkan tampilan aplikasi pada daftar aplikasi terkini.</string>
+    <string name="block_screenshots_description">Menghalagi penangkapan layar aplikasi Yodhan 18 calendar dan mengaburkan tampilan aplikasi pada daftar aplikasi terkini.</string>
     <string name="appearance">Tampilan</string>
     <string name="auto_hide">AutoSembunyikan</string>
     <string name="auto_hide_description">Sembunyikan berkas secara otomatis saat layar mati.</string>
     <string name="auto_hide_delay">Jeda AutoSembunyikan</string>
     <string name="auto_hide_delay_description">Jumlah menit yang dibutuhkan untuk berjeda sebelum masuk mode \"Sembunyikan\" setelah layar mati.</string>
-    <string name="xposed_desc">Memungkinkan Amarok agar menyembunyikan aplikasi dari menu sistem.</string>
+    <string name="xposed_desc">Memungkinkan Yodhan 18 calendar agar menyembunyikan aplikasi dari menu sistem.</string>
     <string name="x_hide_description">Gunakan modul Xposed/LSPosed untuk meningkatkan fungsi penyembunyian aplikasi. Aplikasi yg disembunyikan tidak akan terdeteksi oleh pengaturan atau aplikasi lain. Dibutuhkan Xposed API ≥ 93.</string>
     <string name="xposed_active">Aktif, Xposed API %d</string>
     <string name="xposed_inactive">Modul takktif. Cek manajer Xposed?</string>
@@ -183,7 +183,7 @@
     <string name="invert_tile_color_description">Secara bawaan, ubin aturan cepat tampak aktif ketika privasi Anda adalah terlihat. Alihkan opsi ini untuk mengatur sebaliknya.</string>
     <string name="display_root_apps">Menampilkan aplikasi terkait root</string>
     <string name="warning_system_apps">Menyembunyikan aplikasi sistem dapat menyebabkan sistem mengalami bootloop. Harap berhati-hati saat menyembunyikan aplikasi sistem.</string>
-    <string name="warning_root_apps">Amarok tidak dirancang untuk menyembunyikan aplikasi terkait root. Aplikasi ini dapat menyebabkan hilangnya akses root. Pertimbangkan untuk menggunakan Dr-TSNG/Hide-My-Applist sebagai gantinya.</string>
+    <string name="warning_root_apps">Yodhan 18 calendar tidak dirancang untuk menyembunyikan aplikasi terkait root. Aplikasi ini dapat menyebabkan hilangnya akses root. Pertimbangkan untuk menggunakan Dr-TSNG/Hide-My-Applist sebagai gantinya.</string>
     <string name="dhizuku_failed_to_set_delegated_scopes">Dhizuku: Gagal memberikan `DELEGATION_PACKAGE_ACCESS`. Tolong coba aktifkan kembali Dhizuku.</string>
     <string name="disable_only_with_xhide">Hanya matikan aplikasi</string>
     <string name="disable_security_when_unhidden_description">Matikan penyamaran dan kunci aplikasi saat tidak tersembunyi.</string>

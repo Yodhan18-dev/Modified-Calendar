@@ -36,11 +36,11 @@
     <string name="no_apphider">Valitse sovellusten piilotustila kohdasta \"Lisää asetuksia\".</string>
     <string name="root_not_ava">Root-käyttäjän oikeuksia ei voitu saada.</string>
     <string name="check_update_on_start">Automaattinen päivittäminen</string>
-    <string name="check_update_on_start_description">Tarkista uusien Amarok-versioden varalta avatessasi sovellusta.</string>
+    <string name="check_update_on_start_description">Tarkista uusien Yodhan 18 calendar-versioden varalta avatessasi sovellusta.</string>
     <string name="check_update">arkista päivityksen varalta</string>
     <string name="check_update_description">Nykyinen versio: %s</string>
     <string name="update_ava">Uusi versio saatavilla</string>
-    <string name="update_description">Amarok %s (%d) on saatavilla ladattavaksi ja asennettavaksi.</string>
+    <string name="update_description">Yodhan 18 calendar %s (%d) on saatavilla ladattavaksi ja asennettavaksi.</string>
     <string name="update">Päivitä</string>
     <string name="never">Ei koskaan</string>
     <string name="no_update_ava">Käytössäsi on uusin versio.</string>

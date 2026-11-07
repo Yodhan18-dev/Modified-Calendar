@@ -31,7 +31,7 @@
     <string name="appearance">Aspekto</string>
     <string name="notification">Sciigo</string>
     <string name="password">Pasvorto</string>
-    <string name="app_name_calendar">Kalendaro</string>
+    <string name="app_name_calendar">calendar</string>
     <string name="filehider_none">Malŝaltita</string>
     <string name="welcome_title">Bonvenon</string>
 </resources>

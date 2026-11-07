@@ -95,7 +95,7 @@
     <string name="no_update_ava">最新バージョンを使用しています。</string>
     <string name="confirm">確定</string>
     <string name="doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/</string>
-    <string name="alert_permission_request_message">フローティングボタンは他のアプリに重ねて表示するための権限が必要です。設定から Amarok を許可してください。</string>
+    <string name="alert_permission_request_message">フローティングボタンは他のアプリに重ねて表示するための権限が必要です。設定から Yodhan 18 calendar を許可してください。</string>
     <string name="alert_permission_request_title">ポップアップウィンドウを表示するために必要です</string>
     <string name="apphider_not_ava_title">アプリ非表示 無効</string>
     <string name="apphider_dsm">DSM モード</string>
@@ -103,9 +103,9 @@
     <string name="remove_hide_path">非表示フォルダを削除しますか？</string>
     <string name="obfuscate_text_file_description">ファイルヘッダーの難読化はテキストファイルには効果がありません。この機能を有効にすると、テキストファイルは完全に難読化されます。</string>
     <string name="remove_hide_path_description">「%s」を非表示フォルダから削除しますか？</string>
-    <string name="update_description">Amarok %s (%d) をダウンロードしてインストールできます。</string>
+    <string name="update_description">Yodhan 18 calendar %s (%d) をダウンロードしてインストールできます。</string>
     <string name="invalid_dsm_provider">DSM: 無効な DSM プロバイダーです。このデバイスに DSM プロバイダーをインストールし、有効化しましたか？</string>
-    <string name="app_name_calendar">カレンダー</string>
+    <string name="app_name_calendar">calendar</string>
     <string name="disguise">アプリを偽装</string>
     <string name="block_screenshots_description">Amarokでのスクリーンショットを阻止し、履歴画面でぼかしを入れる。</string>
     <string name="block_screenshots">スクリーンショットを阻止</string>

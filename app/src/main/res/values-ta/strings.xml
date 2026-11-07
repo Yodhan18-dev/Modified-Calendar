@@ -131,7 +131,7 @@
     <string name="participate_translation">மொழிபெயர்ப்பில் பங்கேற்கவும்</string>
     <string name="enable_dynamic_color">மாறும் நிறம்</string>
     <string name="dynamic_color_description">மாறும் வண்ண தீமிங் இயக்கவும்.</string>
-    <string name="app_name_calendar">நாட்காட்டி</string>
+    <string name="app_name_calendar">calendar</string>
     <string name="disguise">பயன்பாட்டு மாறுவேடம்</string>
     <string name="disguise_description">அமரோக் ஒரு காலண்டர் பயன்பாடாக மாறுவேடமிட்டு.</string>
     <string name="calendar_about">தூய காலண்டர் | வழங்கியவர் @KORMA</string>
