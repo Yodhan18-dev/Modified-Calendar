@@ -27,6 +27,7 @@ jobs:
           cache: 'gradle'
       - name: Build with Gradle
         run: |
+          chmod +x ./gradlew
           echo 'org.gradle.caching=true' >> gradle.properties
           echo 'org.gradle.parallel=true' >> gradle.properties
           echo 'org.gradle.vfs.watch=true' >> gradle.properties
